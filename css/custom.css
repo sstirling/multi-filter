@@ -65,8 +65,8 @@ h2 {
     height: auto;
     margin: 5px;
     padding: 10px;
-    background: #F2F2F2;
-    background-color: rgba(242, 242, 242, 0.5);
+    background: #ffffff;
+    background-color: #ffffff;;
     border: 1px dashed black;
     color: #262524;
 }
@@ -80,7 +80,7 @@ h2 {
     text-transform: uppercase;
 /*    font-family: 'Oswald', sans-serif;
 */    font-weight: bold;
-    color: steelblue;
+    color: #cc4f3e;
     margin-bottom: 10px;
 }
 .element-item .crit {
@@ -90,14 +90,14 @@ h2 {
     text-transform: uppercase;
 /*    font-family: 'Oswald', sans-serif;
 */    font-weight: bold;
-    color: steelblue;
+    color: #cc4f3e;
 }
 .element-item .separate {
     color: #333;
     font-weight: bold;
 }
 .element-item .bolded {
-    color: steelblue;
+    color: #cc4f3e;
     font-weight: bold;
     font-size: 14px;
     padding-top: 0;
@@ -134,7 +134,6 @@ table {
 .element-item td {
     font-size: 11px;
     color: #666;
-    font-family: Arial, sans-serif;
 }
 .element-item .separate2 {
     padding-top: 0.9rem;
