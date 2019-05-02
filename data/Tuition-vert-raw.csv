@@ -1,0 +1,1223 @@
+﻿County,ledgerstyle,cost, mi ,per-income
+New Jersey Institute of Technology,1991,4288, na ,na
+New Jersey Institute of Technology,1992,4524, na ,na
+New Jersey Institute of Technology,1993,4790, na ,na
+New Jersey Institute of Technology,1994,4980," $40,927 ",0.12
+New Jersey Institute of Technology,1995,5222," $40,927 ",0.13
+New Jersey Institute of Technology,1996,5466," $40,927 ",0.13
+New Jersey Institute of Technology,1997,5802," $40,927 ",0.14
+New Jersey Institute of Technology,1998,6214," $40,927 ",0.15
+New Jersey Institute of Technology,1999,6480," $40,927 ",0.16
+New Jersey Institute of Technology,2000,6730," $40,927 ",0.16
+New Jersey Institute of Technology,2001,7200," $40,927 ",0.18
+New Jersey Institute of Technology,2002,7906," $55,146 ",0.14
+New Jersey Institute of Technology,2003,8500," $55,146 ",0.15
+New Jersey Institute of Technology,2004,9180," $55,146 ",0.17
+New Jersey Institute of Technology,2005,9822," $74,764 ",0.13
+New Jersey Institute of Technology,2006,10506," $75,701 ",0.14
+New Jersey Institute of Technology,2007,11350," $76,542 ",0.15
+New Jersey Institute of Technology,2008,12482," $77,387 ",0.16
+New Jersey Institute of Technology,2009,12856," $75,410 ",0.17
+New Jersey Institute of Technology,2010,13370," $73,492 ",0.18
+New Jersey Institute of Technology,2011,13974," $71,011 ",0.2
+New Jersey Institute of Technology,2012,14740," $71,836 ",0.21
+New Jersey Institute of Technology,2013,15218," $71,313 ",0.21
+New Jersey Institute of Technology,2014,15648," $71,919 ",0.22
+New Jersey Institute of Technology,2015,16108," $72,222 ",0.22
+New Jersey Institute of Technology,2016,16430," $76,126 ",0.22
+New Jersey Institute of Technology,2017,16898," $80,088 ",0.21
+New Jersey Institute of Technology,2018,17338," $80,088 ",0.22
+New Jersey Institute of Technology,2019,17684," $80,088 ",0.22
+New Jersey Institute of Technology,2020,18507," $81,690 ",0.23
+New Jersey Institute of Technology,2021,19368," $83,324 ",0.23
+New Jersey Institute of Technology,2022,20268," $84,990 ",0.24
+New Jersey Institute of Technology,2023,21211," $86,690 ",0.24
+New Jersey Institute of Technology,2024,22198," $88,424 ",0.25
+New Jersey Institute of Technology,2025,23231," $90,192 ",0.26
+New Jersey Institute of Technology,2026,24311," $91,996 ",0.26
+New Jersey Institute of Technology,2027,25442," $93,836 ",0.27
+New Jersey Institute of Technology,2028,26625," $95,713 ",0.28
+New Jersey Institute of Technology,2029,27864," $97,627 ",0.29
+New Jersey Institute of Technology,2030,29160," $99,579 ",0.29
+New Jersey Institute of Technology,2031,30517," $101,571 ",0.3
+New Jersey Institute of Technology,2032,31936," $103,602 ",0.31
+New Jersey Institute of Technology,2033,33422," $105,674 ",0.32
+New Jersey Institute of Technology,2034,34976," $107,788 ",0.32
+New Jersey Institute of Technology,2035,36603," $109,944 ",0.33
+New Jersey Institute of Technology,2036,38306," $112,143 ",0.34
+New Jersey Institute of Technology,2037,40088," $114,385 ",0.35
+Rutgers University Average,1991,3860, na ,na
+Rutgers University Average,1992,4066, na ,na
+Rutgers University Average,1993,4237, na ,na
+Rutgers University Average,1994,4506," $40,927 ",0.11
+Rutgers University Average,1995,4794," $40,927 ",0.12
+Rutgers University Average,1996,5074," $40,927 ",0.12
+Rutgers University Average,1997,5333," $40,927 ",0.13
+Rutgers University Average,1998,5718," $40,927 ",0.14
+Rutgers University Average,1999,6000," $40,927 ",0.15
+Rutgers University Average,2000,6333," $40,927 ",0.15
+Rutgers University Average,2001,6655," $40,927 ",0.16
+Rutgers University Average,2002,7308," $55,146 ",0.13
+Rutgers University Average,2003,7927," $55,146 ",0.14
+Rutgers University Average,2004,8564," $55,146 ",0.16
+Rutgers University Average,2005,9237," $74,764 ",0.12
+Rutgers University Average,2006,9958," $75,701 ",0.13
+Rutgers University Average,2007,10686," $76,542 ",0.14
+Rutgers University Average,2008,11540," $77,387 ",0.15
+Rutgers University Average,2009,11886," $75,410 ",0.16
+Rutgers University Average,2010,12560," $73,492 ",0.17
+Rutgers University Average,2011,12755," $71,011 ",0.18
+Rutgers University Average,2012,13073," $71,836 ",0.18
+Rutgers University Average,2013,13499," $71,313 ",0.19
+Rutgers University Average,2014,13813," $71,919 ",0.19
+Rutgers University Average,2015,14131," $72,222 ",0.2
+Rutgers University Average,2016,14372," $76,126 ",0.19
+Rutgers University Average,2017,14638," $80,088 ",0.18
+Rutgers University Average,2018,19416," $80,088 ",0.24
+Rutgers University Average,2019,15215," $80,088 ",0.19
+Rutgers University Average,2020,15814," $81,690 ",0.19
+Rutgers University Average,2021,16437," $83,324 ",0.2
+Rutgers University Average,2022,17084," $84,990 ",0.2
+Rutgers University Average,2023,17757," $86,690 ",0.2
+Rutgers University Average,2024,18456," $88,424 ",0.21
+Rutgers University Average,2025,19183," $90,192 ",0.21
+Rutgers University Average,2026,19939," $91,996 ",0.22
+Rutgers University Average,2027,20724," $93,836 ",0.22
+Rutgers University Average,2028,21541," $95,713 ",0.23
+Rutgers University Average,2029,22389," $97,627 ",0.23
+Rutgers University Average,2030,23271," $99,579 ",0.23
+Rutgers University Average,2031,24188," $101,571 ",0.24
+Rutgers University Average,2032,25140," $103,602 ",0.24
+Rutgers University Average,2033,26131," $105,674 ",0.25
+Rutgers University Average,2034,27160," $107,788 ",0.25
+Rutgers University Average,2035,28230," $109,944 ",0.26
+Rutgers University Average,2036,29341," $112,143 ",0.26
+Rutgers University Average,2037,30497," $114,385 ",0.27
+College of New Jersey,1991,3032, na ,na
+College of New Jersey,1992,3687, na ,na
+College of New Jersey,1993,3857, na ,na
+College of New Jersey,1994,4078," $40,927 ",0.1
+College of New Jersey,1995,4168," $40,927 ",0.1
+College of New Jersey,1996,4446," $40,927 ",0.11
+College of New Jersey,1997,4843," $40,927 ",0.12
+College of New Jersey,1998,5318," $40,927 ",0.13
+College of New Jersey,1999,5685," $40,927 ",0.14
+College of New Jersey,2000,5991," $40,927 ",0.15
+College of New Jersey,2001,6661," $40,927 ",0.16
+College of New Jersey,2002,7448," $55,146 ",0.14
+College of New Jersey,2003,8206," $55,146 ",0.15
+College of New Jersey,2004,9118," $55,146 ",0.17
+College of New Jersey,2005,9857," $74,764 ",0.13
+College of New Jersey,2006,10553," $75,701 ",0.14
+College of New Jersey,2007,11307," $76,542 ",0.15
+College of New Jersey,2008,12308," $77,387 ",0.16
+College of New Jersey,2009,12722," $75,410 ",0.17
+College of New Jersey,2010,13293," $73,492 ",0.18
+College of New Jersey,2011,13887," $71,011 ",0.2
+College of New Jersey,2012,14378," $71,836 ",0.2
+College of New Jersey,2013,14730," $71,313 ",0.21
+College of New Jersey,2014,15024," $71,919 ",0.21
+College of New Jersey,2015,15466," $72,222 ",0.21
+College of New Jersey,2016,15794," $76,126 ",0.21
+College of New Jersey,2017,16149," $80,088 ",0.2
+College of New Jersey,2018,16551," $80,088 ",0.21
+College of New Jersey,2019,16831," $80,088 ",0.21
+College of New Jersey,2020,17542," $81,690 ",0.21
+College of New Jersey,2021,18282," $83,324 ",0.22
+College of New Jersey,2022,19054," $84,990 ",0.22
+College of New Jersey,2023,19859," $86,690 ",0.23
+College of New Jersey,2024,20697," $88,424 ",0.23
+College of New Jersey,2025,21571," $90,192 ",0.24
+College of New Jersey,2026,22482," $91,996 ",0.24
+College of New Jersey,2027,23431," $93,836 ",0.25
+College of New Jersey,2028,24421," $95,713 ",0.26
+College of New Jersey,2029,25452," $97,627 ",0.26
+College of New Jersey,2030,26527," $99,579 ",0.27
+College of New Jersey,2031,27647," $101,571 ",0.27
+College of New Jersey,2032,28814," $103,602 ",0.28
+College of New Jersey,2033,30031," $105,674 ",0.28
+College of New Jersey,2034,31299," $107,788 ",0.29
+College of New Jersey,2035,32620," $109,944 ",0.3
+College of New Jersey,2036,33998," $112,143 ",0.3
+College of New Jersey,2037,35433," $114,385 ",0.31
+Kean University,1991,2428, na ,na
+Kean University,1992,2593, na ,na
+Kean University,1993,2555, na ,na
+Kean University,1994,2810," $40,927 ",0.07
+Kean University,1995,3089," $40,927 ",0.08
+Kean University,1996,3366," $40,927 ",0.08
+Kean University,1997,3668," $40,927 ",0.09
+Kean University,1998,3954," $40,927 ",0.1
+Kean University,1999,4383," $40,927 ",0.11
+Kean University,2000,4613," $40,927 ",0.11
+Kean University,2001,5121," $40,927 ",0.13
+Kean University,2002,5841," $55,146 ",0.11
+Kean University,2003,6723," $55,146 ",0.12
+Kean University,2004,7141," $55,146 ",0.13
+Kean University,2005,7507," $74,764 ",0.1
+Kean University,2006,8036," $75,701 ",0.11
+Kean University,2007,8505," $76,542 ",0.11
+Kean University,2008,9179," $77,387 ",0.12
+Kean University,2009,9446," $75,410 ",0.13
+Kean University,2010,9815," $73,492 ",0.13
+Kean University,2011,10200," $71,011 ",0.14
+Kean University,2012,10601," $71,836 ",0.15
+Kean University,2013,10918," $71,313 ",0.15
+Kean University,2014,11244," $71,919 ",0.16
+Kean University,2015,11581," $72,222 ",0.16
+Kean University,2016,11870," $76,126 ",0.16
+Kean University,2017,12017," $80,088 ",0.15
+Kean University,2018,12348," $80,088 ",0.15
+Kean University,2019,12500," $80,088 ",0.16
+Kean University,2020,13001," $81,690 ",0.16
+Kean University,2021,13523," $83,324 ",0.16
+Kean University,2022,14066," $84,990 ",0.17
+Kean University,2023,14631," $86,690 ",0.17
+Kean University,2024,15219," $88,424 ",0.17
+Kean University,2025,15830," $90,192 ",0.18
+Kean University,2026,16466," $91,996 ",0.18
+Kean University,2027,17127," $93,836 ",0.18
+Kean University,2028,17814," $95,713 ",0.19
+Kean University,2029,18530," $97,627 ",0.19
+Kean University,2030,19274," $99,579 ",0.19
+Kean University,2031,20048," $101,571 ",0.2
+Kean University,2032,20853," $103,602 ",0.2
+Kean University,2033,21690," $105,674 ",0.21
+Kean University,2034,22561," $107,788 ",0.21
+Kean University,2035,23467," $109,944 ",0.21
+Kean University,2036,24409," $112,143 ",0.22
+Kean University,2037,25389," $114,385 ",0.22
+Montclair State University,1991,2603, na ,na
+Montclair State University,1992,2686, na ,na
+Montclair State University,1993,2833, na ,na
+Montclair State University,1994,2985," $40,927 ",0.07
+Montclair State University,1995,3146," $40,927 ",0.08
+Montclair State University,1996,3466," $40,927 ",0.08
+Montclair State University,1997,3713," $40,927 ",0.09
+Montclair State University,1998,4063," $40,927 ",0.1
+Montclair State University,1999,4261," $40,927 ",0.1
+Montclair State University,2000,4561," $40,927 ",0.11
+Montclair State University,2001,5103," $40,927 ",0.12
+Montclair State University,2002,5790," $55,146 ",0.1
+Montclair State University,2003,6513," $55,146 ",0.12
+Montclair State University,2004,7026," $55,146 ",0.13
+Montclair State University,2005,7709," $74,764 ",0.1
+Montclair State University,2006,8404," $75,701 ",0.11
+Montclair State University,2007,8895," $76,542 ",0.12
+Montclair State University,2008,9428," $77,387 ",0.12
+Montclair State University,2009,9674," $75,410 ",0.13
+Montclair State University,2010,10016," $73,492 ",0.14
+Montclair State University,2011,10646," $71,011 ",0.15
+Montclair State University,2012,11058," $71,836 ",0.15
+Montclair State University,2013,11318," $71,313 ",0.16
+Montclair State University,2014,11540," $71,919 ",0.16
+Montclair State University,2015,11772," $72,222 ",0.16
+Montclair State University,2016,12116," $76,126 ",0.16
+Montclair State University,2017,12455," $80,088 ",0.16
+Montclair State University,2018,12790," $80,088 ",0.16
+Montclair State University,2019,12966," $80,088 ",0.16
+Montclair State University,2020,13497," $81,690 ",0.17
+Montclair State University,2021,14051," $83,324 ",0.17
+Montclair State University,2022,14627," $84,990 ",0.17
+Montclair State University,2023,15226," $86,690 ",0.18
+Montclair State University,2024,15851," $88,424 ",0.18
+Montclair State University,2025,16500," $90,192 ",0.18
+Montclair State University,2026,17177," $91,996 ",0.19
+Montclair State University,2027,17881," $93,836 ",0.19
+Montclair State University,2028,18614," $95,713 ",0.19
+Montclair State University,2029,19377," $97,627 ",0.2
+Montclair State University,2030,20172," $99,579 ",0.2
+Montclair State University,2031,20999," $101,571 ",0.21
+Montclair State University,2032,21860," $103,602 ",0.21
+Montclair State University,2033,22756," $105,674 ",0.22
+Montclair State University,2034,23689," $107,788 ",0.22
+Montclair State University,2035,24660," $109,944 ",0.22
+Montclair State University,2036,25671," $112,143 ",0.23
+Montclair State University,2037,26723," $114,385 ",0.23
+New Jersey City University,1991,2422, na ,na
+New Jersey City University,1992,2678, na ,na
+New Jersey City University,1993,2798, na ,na
+New Jersey City University,1994,3031," $40,927 ",0.07
+New Jersey City University,1995,3158," $40,927 ",0.08
+New Jersey City University,1996,3528," $40,927 ",0.09
+New Jersey City University,1997,3828," $40,927 ",0.09
+New Jersey City University,1998,4113," $40,927 ",0.1
+New Jersey City University,1999,4358," $40,927 ",0.11
+New Jersey City University,2000,4620," $40,927 ",0.11
+New Jersey City University,2001,5063," $40,927 ",0.12
+New Jersey City University,2002,5556," $55,146 ",0.1
+New Jersey City University,2003,6051," $55,146 ",0.11
+New Jersey City University,2004,6550," $55,146 ",0.12
+New Jersey City University,2005,6389," $74,764 ",0.09
+New Jersey City University,2006,7537," $75,701 ",0.1
+New Jersey City University,2007,8154," $76,542 ",0.11
+New Jersey City University,2008,8727," $77,387 ",0.11
+New Jersey City University,2009,8988," $75,410 ",0.12
+New Jersey City University,2010,9348," $73,492 ",0.13
+New Jersey City University,2011,10021," $71,011 ",0.14
+New Jersey City University,2012,10422," $71,836 ",0.15
+New Jersey City University,2013,10653," $71,313 ",0.15
+New Jersey City University,2014,10853," $71,919 ",0.15
+New Jersey City University,2015,11179," $72,222 ",0.15
+New Jersey City University,2016,11430," $76,126 ",0.15
+New Jersey City University,2017,11762," $80,088 ",0.15
+New Jersey City University,2018,12052," $80,088 ",0.15
+New Jersey City University,2019,12386," $80,088 ",0.15
+New Jersey City University,2020,13042," $81,690 ",0.16
+New Jersey City University,2021,13734," $83,324 ",0.16
+New Jersey City University,2022,14462," $84,990 ",0.17
+New Jersey City University,2023,15229," $86,690 ",0.18
+New Jersey City University,2024,16036," $88,424 ",0.18
+New Jersey City University,2025,16887," $90,192 ",0.19
+New Jersey City University,2026,17782," $91,996 ",0.19
+New Jersey City University,2027,18725," $93,836 ",0.2
+New Jersey City University,2028,19718," $95,713 ",0.21
+New Jersey City University,2029,20763," $97,627 ",0.21
+New Jersey City University,2030,21864," $99,579 ",0.22
+New Jersey City University,2031,23023," $101,571 ",0.23
+New Jersey City University,2032,24244," $103,602 ",0.23
+New Jersey City University,2033,25530," $105,674 ",0.24
+New Jersey City University,2034,26883," $107,788 ",0.25
+New Jersey City University,2035,28309," $109,944 ",0.26
+New Jersey City University,2036,29810," $112,143 ",0.27
+New Jersey City University,2037,31390," $114,385 ",0.27
+Stockton University,1991,2426, na ,na
+Stockton University,1992,2657, na ,na
+Stockton University,1993,2836, na ,na
+Stockton University,1994,2948," $40,927 ",0.07
+Stockton University,1995,3104," $40,927 ",0.08
+Stockton University,1996,3472," $40,927 ",0.08
+Stockton University,1997,3716," $40,927 ",0.09
+Stockton University,1998,4079," $40,927 ",0.1
+Stockton University,1999,4330," $40,927 ",0.11
+Stockton University,2000,4710," $40,927 ",0.12
+Stockton University,2001,5136," $40,927 ",0.13
+Stockton University,2002,5600," $55,146 ",0.1
+Stockton University,2003,6224," $55,146 ",0.11
+Stockton University,2004,7203," $55,146 ",0.13
+Stockton University,2005,8394," $74,764 ",0.11
+Stockton University,2006,9058," $75,701 ",0.12
+Stockton University,2007,9697," $76,542 ",0.13
+Stockton University,2008,10469," $77,387 ",0.14
+Stockton University,2009,11040," $75,410 ",0.15
+Stockton University,2010,11533," $73,492 ",0.16
+Stockton University,2011,11963," $71,011 ",0.17
+Stockton University,2012,12322," $71,836 ",0.17
+Stockton University,2013,12322," $71,313 ",0.17
+Stockton University,2014,12569," $71,919 ",0.17
+Stockton University,2015,12820," $72,222 ",0.18
+Stockton University,2016,13076," $76,126 ",0.17
+Stockton University,2017,13403," $80,088 ",0.17
+Stockton University,2018,13738," $80,088 ",0.17
+Stockton University,2019,13940," $80,088 ",0.17
+Stockton University,2020,14498," $81,690 ",0.18
+Stockton University,2021,15079," $83,324 ",0.18
+Stockton University,2022,15683," $84,990 ",0.18
+Stockton University,2023,16312," $86,690 ",0.19
+Stockton University,2024,16965," $88,424 ",0.19
+Stockton University,2025,17645," $90,192 ",0.2
+Stockton University,2026,18352," $91,996 ",0.2
+Stockton University,2027,19087," $93,836 ",0.2
+Stockton University,2028,19852," $95,713 ",0.21
+Stockton University,2029,20647," $97,627 ",0.21
+Stockton University,2030,21474," $99,579 ",0.22
+Stockton University,2031,22334," $101,571 ",0.22
+Stockton University,2032,23229," $103,602 ",0.22
+Stockton University,2033,24160," $105,674 ",0.23
+Stockton University,2034,25128," $107,788 ",0.23
+Stockton University,2035,26134," $109,944 ",0.24
+Stockton University,2036,27181," $112,143 ",0.24
+Stockton University,2037,28270," $114,385 ",0.25
+Ramapo College of New Jersey,1991,2893, na ,na
+Ramapo College of New Jersey,1992,3025, na ,na
+Ramapo College of New Jersey,1993,3226, na ,na
+Ramapo College of New Jersey,1994,3353," $40,927 ",0.08
+Ramapo College of New Jersey,1995,3521," $40,927 ",0.09
+Ramapo College of New Jersey,1996,3751," $40,927 ",0.09
+Ramapo College of New Jersey,1997,4206," $40,927 ",0.1
+Ramapo College of New Jersey,1998,4617," $40,927 ",0.11
+Ramapo College of New Jersey,1999,4980," $40,927 ",0.12
+Ramapo College of New Jersey,2000,5559," $40,927 ",0.14
+Ramapo College of New Jersey,2001,6178," $40,927 ",0.15
+Ramapo College of New Jersey,2002,6775," $55,146 ",0.12
+Ramapo College of New Jersey,2003,7411," $55,146 ",0.13
+Ramapo College of New Jersey,2004,8081," $55,146 ",0.15
+Ramapo College of New Jersey,2005,8792," $74,764 ",0.12
+Ramapo College of New Jersey,2006,9496," $75,701 ",0.13
+Ramapo College of New Jersey,2007,9965," $76,542 ",0.13
+Ramapo College of New Jersey,2008,10765," $77,387 ",0.14
+Ramapo College of New Jersey,2009,11416," $75,410 ",0.15
+Ramapo College of New Jersey,2010,11874," $73,492 ",0.16
+Ramapo College of New Jersey,2011,12758," $71,011 ",0.18
+Ramapo College of New Jersey,2012,13144," $71,836 ",0.18
+Ramapo College of New Jersey,2013,13387," $71,313 ",0.19
+Ramapo College of New Jersey,2014,13387," $71,919 ",0.19
+Ramapo College of New Jersey,2015,13698," $72,222 ",0.19
+Ramapo College of New Jersey,2016,13870," $76,126 ",0.18
+Ramapo College of New Jersey,2017,14080," $80,088 ",0.18
+Ramapo College of New Jersey,2018,14374," $80,088 ",0.18
+Ramapo College of New Jersey,2019,14648," $80,088 ",0.18
+Ramapo College of New Jersey,2020,15240," $81,690 ",0.19
+Ramapo College of New Jersey,2021,15855," $83,324 ",0.19
+Ramapo College of New Jersey,2022,16495," $84,990 ",0.19
+Ramapo College of New Jersey,2023,17161," $86,690 ",0.2
+Ramapo College of New Jersey,2024,17854," $88,424 ",0.2
+Ramapo College of New Jersey,2025,18575," $90,192 ",0.21
+Ramapo College of New Jersey,2026,19325," $91,996 ",0.21
+Ramapo College of New Jersey,2027,20105," $93,836 ",0.21
+Ramapo College of New Jersey,2028,20916," $95,713 ",0.22
+Ramapo College of New Jersey,2029,21761," $97,627 ",0.22
+Ramapo College of New Jersey,2030,22639," $99,579 ",0.23
+Ramapo College of New Jersey,2031,23553," $101,571 ",0.23
+Ramapo College of New Jersey,2032,24504," $103,602 ",0.24
+Ramapo College of New Jersey,2033,25493," $105,674 ",0.24
+Ramapo College of New Jersey,2034,26523," $107,788 ",0.25
+Ramapo College of New Jersey,2035,27593," $109,944 ",0.25
+Ramapo College of New Jersey,2036,28707," $112,143 ",0.26
+Ramapo College of New Jersey,2037,29866," $114,385 ",0.26
+Rowan University,1991,2676, na ,na
+Rowan University,1992,2870, na ,na
+Rowan University,1993,2843, na ,na
+Rowan University,1994,3095," $40,927 ",0.08
+Rowan University,1995,3393," $40,927 ",0.08
+Rowan University,1996,3750," $40,927 ",0.09
+Rowan University,1997,4241," $40,927 ",0.1
+Rowan University,1998,4550," $40,927 ",0.11
+Rowan University,1999,4920," $40,927 ",0.12
+Rowan University,2000,5347," $40,927 ",0.13
+Rowan University,2001,5779," $40,927 ",0.14
+Rowan University,2002,6658," $55,146 ",0.12
+Rowan University,2003,7258," $55,146 ",0.13
+Rowan University,2004,7970," $55,146 ",0.14
+Rowan University,2005,8607," $74,764 ",0.12
+Rowan University,2006,9330," $75,701 ",0.12
+Rowan University,2007,10068," $76,542 ",0.13
+Rowan University,2008,10908," $77,387 ",0.14
+Rowan University,2009,11234," $75,410 ",0.15
+Rowan University,2010,11676," $73,492 ",0.16
+Rowan University,2011,12019," $71,011 ",0.17
+Rowan University,2012,12380," $71,836 ",0.17
+Rowan University,2013,12380," $71,313 ",0.17
+Rowan University,2014,12616," $71,919 ",0.18
+Rowan University,2015,12864," $72,222 ",0.18
+Rowan University,2016,13108," $76,126 ",0.17
+Rowan University,2017,13422," $80,088 ",0.17
+Rowan University,2018,13697," $80,088 ",0.17
+Rowan University,2019,13933," $80,088 ",0.17
+Rowan University,2020,14463," $81,690 ",0.18
+Rowan University,2021,15014," $83,324 ",0.18
+Rowan University,2022,15586," $84,990 ",0.18
+Rowan University,2023,16179," $86,690 ",0.19
+Rowan University,2024,16795," $88,424 ",0.19
+Rowan University,2025,17434," $90,192 ",0.19
+Rowan University,2026,18098," $91,996 ",0.2
+Rowan University,2027,18787," $93,836 ",0.2
+Rowan University,2028,19502," $95,713 ",0.2
+Rowan University,2029,20244," $97,627 ",0.21
+Rowan University,2030,21015," $99,579 ",0.21
+Rowan University,2031,21815," $101,571 ",0.21
+Rowan University,2032,22645," $103,602 ",0.22
+Rowan University,2033,23508," $105,674 ",0.22
+Rowan University,2034,24402," $107,788 ",0.23
+Rowan University,2035,25331," $109,944 ",0.23
+Rowan University,2036,26296," $112,143 ",0.23
+Rowan University,2037,27297," $114,385 ",0.24
+WIlliam Paterson University of New Jersey,1991,2515, na ,na
+WIlliam Paterson University of New Jersey,1992,2791, na ,na
+WIlliam Paterson University of New Jersey,1993,2887, na ,na
+WIlliam Paterson University of New Jersey,1994,3000," $40,927 ",0.07
+WIlliam Paterson University of New Jersey,1995,3220," $40,927 ",0.08
+WIlliam Paterson University of New Jersey,1996,3380," $40,927 ",0.08
+WIlliam Paterson University of New Jersey,1997,3786," $40,927 ",0.09
+WIlliam Paterson University of New Jersey,1998,4150," $40,927 ",0.1
+WIlliam Paterson University of New Jersey,1999,4690," $40,927 ",0.11
+WIlliam Paterson University of New Jersey,2000,5150," $40,927 ",0.13
+WIlliam Paterson University of New Jersey,2001,5702," $40,927 ",0.14
+WIlliam Paterson University of New Jersey,2002,6400," $55,146 ",0.12
+WIlliam Paterson University of New Jersey,2003,7120," $55,146 ",0.13
+WIlliam Paterson University of New Jersey,2004,7952," $55,146 ",0.14
+WIlliam Paterson University of New Jersey,2005,8740," $74,764 ",0.12
+WIlliam Paterson University of New Jersey,2006,9422," $75,701 ",0.12
+WIlliam Paterson University of New Jersey,2007,9996," $76,542 ",0.13
+WIlliam Paterson University of New Jersey,2008,10492," $77,387 ",0.14
+WIlliam Paterson University of New Jersey,2009,10937," $75,410 ",0.15
+WIlliam Paterson University of New Jersey,2010,11238," $73,492 ",0.15
+WIlliam Paterson University of New Jersey,2011,11464," $71,011 ",0.16
+WIlliam Paterson University of New Jersey,2012,11694," $71,836 ",0.16
+WIlliam Paterson University of New Jersey,2013,11918," $71,313 ",0.17
+WIlliam Paterson University of New Jersey,2014,12244," $71,919 ",0.17
+WIlliam Paterson University of New Jersey,2015,12365," $72,222 ",0.17
+WIlliam Paterson University of New Jersey,2016,12574," $76,126 ",0.17
+WIlliam Paterson University of New Jersey,2017,12804," $80,088 ",0.16
+WIlliam Paterson University of New Jersey,2018,14974," $80,088 ",0.19
+WIlliam Paterson University of New Jersey,2019,13220," $80,088 ",0.17
+WIlliam Paterson University of New Jersey,2020,13650," $81,690 ",0.17
+WIlliam Paterson University of New Jersey,2021,14094," $83,324 ",0.17
+WIlliam Paterson University of New Jersey,2022,14553," $84,990 ",0.17
+WIlliam Paterson University of New Jersey,2023,15026," $86,690 ",0.17
+WIlliam Paterson University of New Jersey,2024,15515," $88,424 ",0.18
+WIlliam Paterson University of New Jersey,2025,16019," $90,192 ",0.18
+WIlliam Paterson University of New Jersey,2026,16540," $91,996 ",0.18
+WIlliam Paterson University of New Jersey,2027,17078," $93,836 ",0.18
+WIlliam Paterson University of New Jersey,2028,17634," $95,713 ",0.18
+WIlliam Paterson University of New Jersey,2029,18207," $97,627 ",0.19
+WIlliam Paterson University of New Jersey,2030,18799," $99,579 ",0.19
+WIlliam Paterson University of New Jersey,2031,19411," $101,571 ",0.19
+WIlliam Paterson University of New Jersey,2032,20042," $103,602 ",0.19
+WIlliam Paterson University of New Jersey,2033,20694," $105,674 ",0.2
+WIlliam Paterson University of New Jersey,2034,21367," $107,788 ",0.2
+WIlliam Paterson University of New Jersey,2035,22062," $109,944 ",0.2
+WIlliam Paterson University of New Jersey,2036,22779," $112,143 ",0.2
+WIlliam Paterson University of New Jersey,2037,23520," $114,385 ",0.21
+ALL PUBLIC SENIORS AVERAGE,1991,2915, na ,na
+ALL PUBLIC SENIORS AVERAGE,1992,3158, na ,na
+ALL PUBLIC SENIORS AVERAGE,1993,3287, na ,na
+ALL PUBLIC SENIORS AVERAGE,1994,3479," $40,927 ",0.09
+ALL PUBLIC SENIORS AVERAGE,1995,3682," $40,927 ",0.09
+ALL PUBLIC SENIORS AVERAGE,1996,3970," $40,927 ",0.1
+ALL PUBLIC SENIORS AVERAGE,1997,4314," $40,927 ",0.11
+ALL PUBLIC SENIORS AVERAGE,1998,4678," $40,927 ",0.11
+ALL PUBLIC SENIORS AVERAGE,1999,5009," $40,927 ",0.12
+ALL PUBLIC SENIORS AVERAGE,2000,5361," $40,927 ",0.13
+ALL PUBLIC SENIORS AVERAGE,2001,5860," $40,927 ",0.14
+ALL PUBLIC SENIORS AVERAGE,2002,6528," $55,146 ",0.12
+ALL PUBLIC SENIORS AVERAGE,2003,7193," $55,146 ",0.13
+ALL PUBLIC SENIORS AVERAGE,2004,7879," $55,146 ",0.14
+ALL PUBLIC SENIORS AVERAGE,2005,8506," $74,764 ",0.11
+ALL PUBLIC SENIORS AVERAGE,2006,9230," $75,701 ",0.12
+ALL PUBLIC SENIORS AVERAGE,2007,9863," $76,542 ",0.13
+ALL PUBLIC SENIORS AVERAGE,2008,10634," $77,387 ",0.14
+ALL PUBLIC SENIORS AVERAGE,2009,11023," $75,410 ",0.15
+ALL PUBLIC SENIORS AVERAGE,2010,11469," $73,492 ",0.16
+ALL PUBLIC SENIORS AVERAGE,2011,12077," $71,011 ",0.17
+ALL PUBLIC SENIORS AVERAGE,2012,12481," $71,836 ",0.17
+ALL PUBLIC SENIORS AVERAGE,2013,12634," $71,313 ",0.18
+ALL PUBLIC SENIORS AVERAGE,2014,12894," $71,919 ",0.18
+ALL PUBLIC SENIORS AVERAGE,2015,13198," $72,222 ",0.18
+ALL PUBLIC SENIORS AVERAGE,2016,13464," $76,126 ",0.18
+ALL PUBLIC SENIORS AVERAGE,2017,13772," $80,088 ",0.17
+ALL PUBLIC SENIORS AVERAGE,2018,14092," $80,088 ",0.18
+ALL PUBLIC SENIORS AVERAGE,2019,14340," $80,088 ",0.18
+ALL PUBLIC SENIORS AVERAGE,2020,14931," $81,690 ",0.18
+ALL PUBLIC SENIORS AVERAGE,2021,15547," $83,324 ",0.19
+ALL PUBLIC SENIORS AVERAGE,2022,16188," $84,990 ",0.19
+ALL PUBLIC SENIORS AVERAGE,2023,16855," $86,690 ",0.19
+ALL PUBLIC SENIORS AVERAGE,2024,17550," $88,424 ",0.2
+ALL PUBLIC SENIORS AVERAGE,2025,18274," $90,192 ",0.2
+ALL PUBLIC SENIORS AVERAGE,2026,19028," $91,996 ",0.21
+ALL PUBLIC SENIORS AVERAGE,2027,19812," $93,836 ",0.21
+ALL PUBLIC SENIORS AVERAGE,2028,20629," $95,713 ",0.22
+ALL PUBLIC SENIORS AVERAGE,2029,21480," $97,627 ",0.22
+ALL PUBLIC SENIORS AVERAGE,2030,22366," $99,579 ",0.22
+ALL PUBLIC SENIORS AVERAGE,2031,23288," $101,571 ",0.23
+ALL PUBLIC SENIORS AVERAGE,2032,24248," $103,602 ",0.23
+ALL PUBLIC SENIORS AVERAGE,2033,25248," $105,674 ",0.24
+ALL PUBLIC SENIORS AVERAGE,2034,26289," $107,788 ",0.24
+ALL PUBLIC SENIORS AVERAGE,2035,27373," $109,944 ",0.25
+ALL PUBLIC SENIORS AVERAGE,2036,28502," $112,143 ",0.25
+ALL PUBLIC SENIORS AVERAGE,2037,29677," $114,385 ",0.26
+Bloomfield College,1991,7450, na ,na
+Bloomfield College,1992,7750, na ,na
+Bloomfield College,1993,8050, na ,na
+Bloomfield College,1994,8460," $40,927 ",0.21
+Bloomfield College,1995,8850," $40,927 ",0.22
+Bloomfield College,1996,9250," $40,927 ",0.23
+Bloomfield College,1997,9630," $40,927 ",0.24
+Bloomfield College,1998,10050," $40,927 ",0.25
+Bloomfield College,1999,10450," $40,927 ",0.26
+Bloomfield College,2000,10950," $40,927 ",0.27
+Bloomfield College,2001,11450," $40,927 ",0.28
+Bloomfield College,2002,12300," $55,146 ",0.22
+Bloomfield College,2003,13100," $55,146 ",0.24
+Bloomfield College,2004,13900," $55,146 ",0.25
+Bloomfield College,2005,15100," $74,764 ",0.2
+Bloomfield College,2006,16400," $75,701 ",0.22
+Bloomfield College,2007,18000," $76,542 ",0.24
+Bloomfield College,2008,20080," $77,387 ",0.26
+Bloomfield College,2009,21000," $75,410 ",0.28
+Bloomfield College,2010,22400," $73,492 ",0.3
+Bloomfield College,2011,23700," $71,011 ",0.33
+Bloomfield College,2012,25050," $71,836 ",0.35
+Bloomfield College,2013,25880," $71,313 ",0.36
+Bloomfield College,2014,26750," $71,919 ",0.37
+Bloomfield College,2015,27800," $72,222 ",0.38
+Bloomfield College,2016,28600," $76,126 ",0.38
+Bloomfield College,2017,29300," $80,088 ",0.37
+Bloomfield College,2018,29950," $80,088 ",0.37
+Bloomfield College,2019,30975," $80,088 ",0.39
+Bloomfield College,2020,32745," $81,690 ",0.4
+Bloomfield College,2021,34617," $83,324 ",0.42
+Bloomfield College,2022,36596," $84,990 ",0.43
+Bloomfield College,2023,38688," $86,690 ",0.45
+Bloomfield College,2024,40899," $88,424 ",0.46
+Bloomfield College,2025,43237," $90,192 ",0.48
+Bloomfield College,2026,45709," $91,996 ",0.5
+Bloomfield College,2027,48322," $93,836 ",0.51
+Bloomfield College,2028,51084," $95,713 ",0.53
+Bloomfield College,2029,54004," $97,627 ",0.55
+Bloomfield College,2030,57091," $99,579 ",0.57
+Bloomfield College,2031,60354," $101,571 ",0.59
+Bloomfield College,2032,63804," $103,602 ",0.62
+Bloomfield College,2033,67452," $105,674 ",0.64
+Bloomfield College,2034,71307," $107,788 ",0.66
+Bloomfield College,2035,75383," $109,944 ",0.69
+Bloomfield College,2036,79692," $112,143 ",0.71
+Bloomfield College,2037,84248," $114,385 ",0.74
+Caldwell College,1991,7660, na ,na
+Caldwell College,1992,8060, na ,na
+Caldwell College,1993,8460, na ,na
+Caldwell College,1994,8964," $40,927 ",0.22
+Caldwell College,1995,9553," $40,927 ",0.23
+Caldwell College,1996,10050," $40,927 ",0.25
+Caldwell College,1997,10800," $40,927 ",0.26
+Caldwell College,1998,11700," $40,927 ",0.29
+Caldwell College,1999,12400," $40,927 ",0.3
+Caldwell College,2000,13200," $40,927 ",0.32
+Caldwell College,2001,14190," $40,927 ",0.35
+Caldwell College,2002,16100," $55,146 ",0.29
+Caldwell College,2003,17060," $55,146 ",0.31
+Caldwell College,2004,18010," $55,146 ",0.33
+Caldwell College,2005,18900," $74,764 ",0.25
+Caldwell College,2006,20200," $75,701 ",0.27
+Caldwell College,2007,22000," $76,542 ",0.29
+Caldwell College,2008,23600," $77,387 ",0.3
+Caldwell College,2009,24600," $75,410 ",0.33
+Caldwell College,2010,25602," $73,492 ",0.35
+Caldwell College,2011,26890," $71,011 ",0.38
+Caldwell College,2012,27890," $71,836 ",0.39
+Caldwell College,2013,29000," $71,313 ",0.41
+Caldwell College,2014,30050," $71,919 ",0.42
+Caldwell College,2015,31200," $72,222 ",0.43
+Caldwell College,2016,32650," $76,126 ",0.43
+Caldwell College,2017,33950," $80,088 ",0.42
+Caldwell College,2018,34865," $80,088 ",0.44
+Caldwell College,2019,35653," $80,088 ",0.45
+Caldwell College,2020,37440," $81,690 ",0.46
+Caldwell College,2021,39318," $83,324 ",0.47
+Caldwell College,2022,41290," $84,990 ",0.49
+Caldwell College,2023,43360," $86,690 ",0.5
+Caldwell College,2024,45535," $88,424 ",0.51
+Caldwell College,2025,47819," $90,192 ",0.53
+Caldwell College,2026,50217," $91,996 ",0.55
+Caldwell College,2027,52735," $93,836 ",0.56
+Caldwell College,2028,55379," $95,713 ",0.58
+Caldwell College,2029,58157," $97,627 ",0.6
+Caldwell College,2030,61073," $99,579 ",0.61
+Caldwell College,2031,64136," $101,571 ",0.63
+Caldwell College,2032,67352," $103,602 ",0.65
+Caldwell College,2033,70730," $105,674 ",0.67
+Caldwell College,2034,74277," $107,788 ",0.69
+Caldwell College,2035,78002," $109,944 ",0.71
+Caldwell College,2036,81914," $112,143 ",0.73
+Caldwell College,2037,86021," $114,385 ",0.75
+Centenary College,1991,10390, na ,na
+Centenary College,1992,10911, na ,na
+Centenary College,1993,11590, na ,na
+Centenary College,1994,11590," $40,927 ",0.28
+Centenary College,1995,12094," $40,927 ",0.3
+Centenary College,1996,12598," $40,927 ",0.31
+Centenary College,1997,13110," $40,927 ",0.32
+Centenary College,1998,13730," $40,927 ",0.34
+Centenary College,1999,14350," $40,927 ",0.35
+Centenary College,2000,15370," $40,927 ",0.38
+Centenary College,2001,16460," $40,927 ",0.4
+Centenary College,2002,16400," $55,146 ",0.3
+Centenary College,2003,17820," $55,146 ",0.32
+Centenary College,2004,19210," $55,146 ",0.35
+Centenary College,2005,20720," $74,764 ",0.28
+Centenary College,2006,22165," $75,701 ",0.29
+Centenary College,2007,24350," $76,542 ",0.32
+Centenary College,2008,24930," $77,387 ",0.32
+Centenary College,2009,26534," $75,410 ",0.35
+Centenary College,2010,28054," $73,492 ",0.38
+Centenary College,2011,28890," $71,011 ",0.41
+Centenary College,2012,29630," $71,836 ",0.41
+Centenary College,2013,30520," $71,313 ",0.43
+Centenary College,2014,30942," $71,919 ",0.43
+Centenary College,2015,31754," $72,222 ",0.44
+Centenary College,2016,32098," $76,126 ",0.42
+Centenary College,2017,32580," $80,088 ",0.41
+Centenary College,2018,32998," $80,088 ",0.41
+Centenary College,2019,33843," $80,088 ",0.42
+Centenary College,2020,35155," $81,690 ",0.43
+Centenary College,2021,36517," $83,324 ",0.44
+Centenary College,2022,37933," $84,990 ",0.45
+Centenary College,2023,39403," $86,690 ",0.45
+Centenary College,2024,40930," $88,424 ",0.46
+Centenary College,2025,42517," $90,192 ",0.47
+Centenary College,2026,44165," $91,996 ",0.48
+Centenary College,2027,45877," $93,836 ",0.49
+Centenary College,2028,47655," $95,713 ",0.5
+Centenary College,2029,49502," $97,627 ",0.51
+Centenary College,2030,51421," $99,579 ",0.52
+Centenary College,2031,53414," $101,571 ",0.53
+Centenary College,2032,55484," $103,602 ",0.54
+Centenary College,2033,57635," $105,674 ",0.55
+Centenary College,2034,59869," $107,788 ",0.56
+Centenary College,2035,62190," $109,944 ",0.57
+Centenary College,2036,64600," $112,143 ",0.58
+Centenary College,2037,67104," $114,385 ",0.59
+Drew University,1991,16424, na ,na
+Drew University,1992,17294, na ,na
+Drew University,1993,18058, na ,na
+Drew University,1994,18942," $40,927 ",0.46
+Drew University,1995,19638," $40,927 ",0.48
+Drew University,1996,20402," $40,927 ",0.5
+Drew University,1997,21396," $40,927 ",0.52
+Drew University,1998,22232," $40,927 ",0.54
+Drew University,1999,23008," $40,927 ",0.56
+Drew University,2000,24018," $40,927 ",0.59
+Drew University,2001,25122," $40,927 ",0.61
+Drew University,2002,26346," $55,146 ",0.48
+Drew University,2003,27906," $55,146 ",0.51
+Drew University,2004,29546," $55,146 ",0.54
+Drew University,2005,31286," $74,764 ",0.42
+Drew University,2006,33068," $75,701 ",0.44
+Drew University,2007,34790," $76,542 ",0.45
+Drew University,2008,36470," $77,387 ",0.47
+Drew University,2009,38017," $75,410 ",0.5
+Drew University,2010,39573," $73,492 ",0.54
+Drew University,2011,41004," $71,011 ",0.58
+Drew University,2012,42620," $71,836 ",0.59
+Drew University,2013,43768," $71,313 ",0.61
+Drew University,2014,45214," $71,919 ",0.63
+Drew University,2015,46534," $72,222 ",0.64
+Drew University,2016,46384," $76,126 ",0.61
+Drew University,2017,49168," $80,088 ",0.61
+Drew University,2018,39500," $80,088 ",0.49
+Drew University,2019,51062," $80,088 ",0.64
+Drew University,2020,53029," $81,690 ",0.65
+Drew University,2021,55071," $83,324 ",0.66
+Drew University,2022,57192," $84,990 ",0.67
+Drew University,2023,59395," $86,690 ",0.69
+Drew University,2024,61683," $88,424 ",0.7
+Drew University,2025,64059," $90,192 ",0.71
+Drew University,2026,66526," $91,996 ",0.72
+Drew University,2027,69089," $93,836 ",0.74
+Drew University,2028,71750," $95,713 ",0.75
+Drew University,2029,74513," $97,627 ",0.76
+Drew University,2030,77383," $99,579 ",0.78
+Drew University,2031,80364," $101,571 ",0.79
+Drew University,2032,83459," $103,602 ",0.81
+Drew University,2033,86674," $105,674 ",0.82
+Drew University,2034,90012," $107,788 ",0.84
+Drew University,2035,93479," $109,944 ",0.85
+Drew University,2036,97080," $112,143 ",0.87
+Drew University,2037,100819," $114,385 ",0.88
+Fairleigh Dickinson University,1991,9844, na ,na
+Fairleigh Dickinson University,1992,10483, na ,na
+Fairleigh Dickinson University,1993,11091, na ,na
+Fairleigh Dickinson University,1994,11730," $40,927 ",0.29
+Fairleigh Dickinson University,1995,12370," $40,927 ",0.3
+Fairleigh Dickinson University,1996,13404," $40,927 ",0.33
+Fairleigh Dickinson University,1997,14126," $40,927 ",0.35
+Fairleigh Dickinson University,1998,14836," $40,927 ",0.36
+Fairleigh Dickinson University,1999,15718," $40,927 ",0.38
+Fairleigh Dickinson University,2000,16626," $40,927 ",0.41
+Fairleigh Dickinson University,2001,17894," $40,927 ",0.44
+Fairleigh Dickinson University,2002,19074," $55,146 ",0.35
+Fairleigh Dickinson University,2003,21880," $55,146 ",0.4
+Fairleigh Dickinson University,2004,23386," $55,146 ",0.42
+Fairleigh Dickinson University,2005,24364," $74,764 ",0.33
+Fairleigh Dickinson University,2006,26518," $75,701 ",0.35
+Fairleigh Dickinson University,2007,28228," $76,542 ",0.37
+Fairleigh Dickinson University,2008,27784," $77,387 ",0.36
+Fairleigh Dickinson University,2009,31264," $75,410 ",0.41
+Fairleigh Dickinson University,2010,33410," $73,492 ",0.45
+Fairleigh Dickinson University,2011,35002," $71,011 ",0.49
+Fairleigh Dickinson University,2012,36352," $71,836 ",0.51
+Fairleigh Dickinson University,2013,37344," $71,313 ",0.52
+Fairleigh Dickinson University,2014,38236," $71,919 ",0.53
+Fairleigh Dickinson University,2015,39092," $72,222 ",0.54
+Fairleigh Dickinson University,2016,40407," $76,126 ",0.53
+Fairleigh Dickinson University,2017,41780," $80,088 ",0.52
+Fairleigh Dickinson University,2018,43142," $80,088 ",0.54
+Fairleigh Dickinson University,2019,43724," $80,088 ",0.55
+Fairleigh Dickinson University,2020,45759," $81,690 ",0.56
+Fairleigh Dickinson University,2021,47889," $83,324 ",0.57
+Fairleigh Dickinson University,2022,50117," $84,990 ",0.59
+Fairleigh Dickinson University,2023,52450," $86,690 ",0.61
+Fairleigh Dickinson University,2024,54891," $88,424 ",0.62
+Fairleigh Dickinson University,2025,57445," $90,192 ",0.64
+Fairleigh Dickinson University,2026,60119," $91,996 ",0.65
+Fairleigh Dickinson University,2027,62916," $93,836 ",0.67
+Fairleigh Dickinson University,2028,65844," $95,713 ",0.69
+Fairleigh Dickinson University,2029,68909," $97,627 ",0.71
+Fairleigh Dickinson University,2030,72116," $99,579 ",0.72
+Fairleigh Dickinson University,2031,75472," $101,571 ",0.74
+Fairleigh Dickinson University,2032,78984," $103,602 ",0.76
+Fairleigh Dickinson University,2033,82660," $105,674 ",0.78
+Fairleigh Dickinson University,2034,86507," $107,788 ",0.8
+Fairleigh Dickinson University,2035,90532," $109,944 ",0.82
+Fairleigh Dickinson University,2036,94746," $112,143 ",0.84
+Fairleigh Dickinson University,2037,99155," $114,385 ",0.87
+Felician College,1991,6950, na ,na
+Felician College,1992,7400, na ,na
+Felician College,1993,7850, na ,na
+Felician College,1994,8310," $40,927 ",0.2
+Felician College,1995,8770," $40,927 ",0.21
+Felician College,1996,9502," $40,927 ",0.23
+Felician College,1997,10092," $40,927 ",0.25
+Felician College,1998,10542," $40,927 ",0.26
+Felician College,1999,11060," $40,927 ",0.27
+Felician College,2000,11690," $40,927 ",0.29
+Felician College,2001,12080," $40,927 ",0.3
+Felician College,2002,13100," $55,146 ",0.24
+Felician College,2003,15600," $55,146 ",0.28
+Felician College,2004,16800," $55,146 ",0.3
+Felician College,2005,19100," $74,764 ",0.26
+Felician College,2006,19950," $75,701 ",0.26
+Felician College,2007,21700," $76,542 ",0.28
+Felician College,2008,23500," $77,387 ",0.3
+Felician College,2009,25050," $75,410 ",0.33
+Felician College,2010,26425," $73,492 ",0.36
+Felician College,2011,27925," $71,011 ",0.39
+Felician College,2012,29400," $71,836 ",0.41
+Felician College,2013,29990," $71,313 ",0.42
+Felician College,2014,30605," $71,919 ",0.43
+Felician College,2015,31235," $72,222 ",0.43
+Felician College,2016,32990," $76,126 ",0.43
+Felician College,2017,33650," $80,088 ",0.42
+Felician College,2018,32976," $80,088 ",0.41
+Felician College,2019,35285," $80,088 ",0.44
+Felician College,2020,36999," $81,690 ",0.45
+Felician College,2021,38796," $83,324 ",0.47
+Felician College,2022,40681," $84,990 ",0.48
+Felician College,2023,42657," $86,690 ",0.49
+Felician College,2024,44729," $88,424 ",0.51
+Felician College,2025,46902," $90,192 ",0.52
+Felician College,2026,49181," $91,996 ",0.53
+Felician College,2027,51570," $93,836 ",0.55
+Felician College,2028,54075," $95,713 ",0.56
+Felician College,2029,56702," $97,627 ",0.58
+Felician College,2030,59457," $99,579 ",0.6
+Felician College,2031,62345," $101,571 ",0.61
+Felician College,2032,65374," $103,602 ",0.63
+Felician College,2033,68550," $105,674 ",0.65
+Felician College,2034,71880," $107,788 ",0.67
+Felician College,2035,75372," $109,944 ",0.69
+Felician College,2036,79033," $112,143 ",0.7
+Felician College,2037,82873," $114,385 ",0.72
+Georgian Court College,1991,7450, na ,na
+Georgian Court College,1992,7875, na ,na
+Georgian Court College,1993,8575, na ,na
+Georgian Court College,1994,9280," $40,927 ",0.23
+Georgian Court College,1995,9910," $40,927 ",0.24
+Georgian Court College,1996,10492," $40,927 ",0.26
+Georgian Court College,1997,11116," $40,927 ",0.27
+Georgian Court College,1998,11636," $40,927 ",0.28
+Georgian Court College,1999,12334," $40,927 ",0.3
+Georgian Court College,2000,12942," $40,927 ",0.32
+Georgian Court College,2001,13840," $40,927 ",0.34
+Georgian Court College,2002,14855," $55,146 ",0.27
+Georgian Court College,2003,16272," $55,146 ",0.3
+Georgian Court College,2004,17924," $55,146 ",0.33
+Georgian Court College,2005,19100," $74,764 ",0.26
+Georgian Court College,2006,20332," $75,701 ",0.27
+Georgian Court College,2007,21150," $76,542 ",0.28
+Georgian Court College,2008,23360," $77,387 ",0.3
+Georgian Court College,2009,24490," $75,410 ",0.32
+Georgian Court College,2010,26176," $73,492 ",0.36
+Georgian Court College,2011,27984," $71,011 ",0.39
+Georgian Court College,2012,28040," $71,836 ",0.39
+Georgian Court College,2013,29606," $71,313 ",0.42
+Georgian Court College,2014,30998," $71,919 ",0.43
+Georgian Court College,2015,31618," $72,222 ",0.44
+Georgian Court College,2016,31618," $76,126 ",0.42
+Georgian Court College,2017,32260," $80,088 ",0.4
+Georgian Court College,2018,32976," $80,088 ",0.41
+Georgian Court College,2019,33714," $80,088 ",0.42
+Georgian Court College,2020,35233," $81,690 ",0.43
+Georgian Court College,2021,36820," $83,324 ",0.44
+Georgian Court College,2022,38479," $84,990 ",0.45
+Georgian Court College,2023,40213," $86,690 ",0.46
+Georgian Court College,2024,42025," $88,424 ",0.48
+Georgian Court College,2025,43918," $90,192 ",0.49
+Georgian Court College,2026,45897," $91,996 ",0.5
+Georgian Court College,2027,47965," $93,836 ",0.51
+Georgian Court College,2028,50126," $95,713 ",0.52
+Georgian Court College,2029,52385," $97,627 ",0.54
+Georgian Court College,2030,54745," $99,579 ",0.55
+Georgian Court College,2031,57212," $101,571 ",0.56
+Georgian Court College,2032,59790," $103,602 ",0.58
+Georgian Court College,2033,62484," $105,674 ",0.59
+Georgian Court College,2034,65299," $107,788 ",0.61
+Georgian Court College,2035,68241," $109,944 ",0.62
+Georgian Court College,2036,71316," $112,143 ",0.64
+Georgian Court College,2037,74529," $114,385 ",0.65
+Monmouth University,1991,10700, na ,na
+Monmouth University,1992,11160, na ,na
+Monmouth University,1993,11820, na ,na
+Monmouth University,1994,12480," $40,927 ",0.3
+Monmouth University,1995,13140," $40,927 ",0.32
+Monmouth University,1996,13800," $40,927 ",0.34
+Monmouth University,1997,14442," $40,927 ",0.35
+Monmouth University,1998,15068," $40,927 ",0.37
+Monmouth University,1999,15686," $40,927 ",0.38
+Monmouth University,2000,16326," $40,927 ",0.4
+Monmouth University,2001,17074," $40,927 ",0.42
+Monmouth University,2002,17900," $55,146 ",0.32
+Monmouth University,2003,18766," $55,146 ",0.34
+Monmouth University,2004,19704," $55,146 ",0.36
+Monmouth University,2005,20684," $74,764 ",0.28
+Monmouth University,2006,21868," $75,701 ",0.29
+Monmouth University,2007,23034," $76,542 ",0.3
+Monmouth University,2008,24098," $77,387 ",0.31
+Monmouth University,2009,25014," $75,410 ",0.33
+Monmouth University,2010,26356," $73,492 ",0.36
+Monmouth University,2011,28000," $71,011 ",0.39
+Monmouth University,2012,29710," $71,836 ",0.41
+Monmouth University,2013,31018," $71,313 ",0.43
+Monmouth University,2014,32310," $71,919 ",0.45
+Monmouth University,2015,33728," $72,222 ",0.47
+Monmouth University,2016,35364," $76,126 ",0.46
+Monmouth University,2017,36732," $80,088 ",0.46
+Monmouth University,2018,38138," $80,088 ",0.48
+Monmouth University,2019,38534," $80,088 ",0.48
+Monmouth University,2020,40424," $81,690 ",0.49
+Monmouth University,2021,42407," $83,324 ",0.51
+Monmouth University,2022,44487," $84,990 ",0.52
+Monmouth University,2023,46669," $86,690 ",0.54
+Monmouth University,2024,48958," $88,424 ",0.55
+Monmouth University,2025,51360," $90,192 ",0.57
+Monmouth University,2026,53879," $91,996 ",0.59
+Monmouth University,2027,56522," $93,836 ",0.6
+Monmouth University,2028,59294," $95,713 ",0.62
+Monmouth University,2029,62203," $97,627 ",0.64
+Monmouth University,2030,65254," $99,579 ",0.66
+Monmouth University,2031,68455," $101,571 ",0.67
+Monmouth University,2032,71813," $103,602 ",0.69
+Monmouth University,2033,75335," $105,674 ",0.71
+Monmouth University,2034,79030," $107,788 ",0.73
+Monmouth University,2035,82907," $109,944 ",0.75
+Monmouth University,2036,86974," $112,143 ",0.78
+Monmouth University,2037,91240," $114,385 ",0.8
+Princeton University,1991,16440, na ,na
+Princeton University,1992,17750, na ,na
+Princeton University,1993,18940, na ,na
+Princeton University,1994,19900," $40,927 ",0.49
+Princeton University,1995,20960," $40,927 ",0.51
+Princeton University,1996,22000," $40,927 ",0.54
+Princeton University,1997,22920," $40,927 ",0.56
+Princeton University,1998,23820," $40,927 ",0.58
+Princeton University,1999,24630," $40,927 ",0.6
+Princeton University,2000,25430," $40,927 ",0.62
+Princeton University,2001,26160," $40,927 ",0.64
+Princeton University,2002,27230," $55,146 ",0.49
+Princeton University,2003,28540," $55,146 ",0.52
+Princeton University,2004,29910," $55,146 ",0.54
+Princeton University,2005,31450," $74,764 ",0.42
+Princeton University,2006,33000," $75,701 ",0.44
+Princeton University,2007,33000," $76,542 ",0.43
+Princeton University,2008,34290," $77,387 ",0.44
+Princeton University,2009,35340," $75,410 ",0.47
+Princeton University,2010,36640," $73,492 ",0.5
+Princeton University,2011,37000," $71,011 ",0.52
+Princeton University,2012,39195," $71,836 ",0.55
+Princeton University,2013,40170," $71,313 ",0.56
+Princeton University,2014,41820," $71,919 ",0.58
+Princeton University,2015,43450," $72,222 ",0.6
+Princeton University,2016,45320," $76,126 ",0.6
+Princeton University,2017,47310," $80,088 ",0.59
+Princeton University,2018,50300," $80,088 ",0.63
+Princeton University,2019,48953," $80,088 ",0.61
+Princeton University,2020,50654," $81,690 ",0.62
+Princeton University,2021,52413," $83,324 ",0.63
+Princeton University,2022,54234," $84,990 ",0.64
+Princeton University,2023,56117," $86,690 ",0.65
+Princeton University,2024,58066," $88,424 ",0.66
+Princeton University,2025,60083," $90,192 ",0.67
+Princeton University,2026,62170," $91,996 ",0.68
+Princeton University,2027,64330," $93,836 ",0.69
+Princeton University,2028,66564," $95,713 ",0.7
+Princeton University,2029,68876," $97,627 ",0.71
+Princeton University,2030,71268," $99,579 ",0.72
+Princeton University,2031,73744," $101,571 ",0.73
+Princeton University,2032,76305," $103,602 ",0.74
+Princeton University,2033,78956," $105,674 ",0.75
+Princeton University,2034,81698," $107,788 ",0.76
+Princeton University,2035,84536," $109,944 ",0.77
+Princeton University,2036,87472," $112,143 ",0.78
+Princeton University,2037,90510," $114,385 ",0.79
+Rider University,1991,11010, na ,na
+Rider University,1992,12010, na ,na
+Rider University,1993,12860, na ,na
+Rider University,1994,13370," $40,927 ",0.33
+Rider University,1995,13940," $40,927 ",0.34
+Rider University,1996,14540," $40,927 ",0.36
+Rider University,1997,15260," $40,927 ",0.37
+Rider University,1998,16180," $40,927 ",0.4
+Rider University,1999,16820," $40,927 ",0.41
+Rider University,2000,17564," $40,927 ",0.43
+Rider University,2001,18435," $40,927 ",0.45
+Rider University,2002,19700," $55,146 ",0.36
+Rider University,2003,21050," $55,146 ",0.38
+Rider University,2004,22300," $55,146 ",0.4
+Rider University,2005,23470," $74,764 ",0.31
+Rider University,2006,24790," $75,701 ",0.33
+Rider University,2007,26230," $76,542 ",0.34
+Rider University,2008,27730," $77,387 ",0.36
+Rider University,2009,29060," $75,410 ",0.39
+Rider University,2010,30470," $73,492 ",0.41
+Rider University,2011,31930," $71,011 ",0.45
+Rider University,2012,33420," $71,836 ",0.47
+Rider University,2013,35270," $71,313 ",0.49
+Rider University,2014,36830," $71,919 ",0.51
+Rider University,2015,38360," $72,222 ",0.53
+Rider University,2016,39820," $76,126 ",0.52
+Rider University,2017,41310," $80,088 ",0.52
+Rider University,2018,42860," $80,088 ",0.54
+Rider University,2019,43304," $80,088 ",0.54
+Rider University,2020,45394," $81,690 ",0.56
+Rider University,2021,47585," $83,324 ",0.57
+Rider University,2022,49882," $84,990 ",0.59
+Rider University,2023,52289," $86,690 ",0.6
+Rider University,2024,54813," $88,424 ",0.62
+Rider University,2025,57459," $90,192 ",0.64
+Rider University,2026,60232," $91,996 ",0.65
+Rider University,2027,63139," $93,836 ",0.67
+Rider University,2028,66186," $95,713 ",0.69
+Rider University,2029,69381," $97,627 ",0.71
+Rider University,2030,72730," $99,579 ",0.73
+Rider University,2031,76240," $101,571 ",0.75
+Rider University,2032,79920," $103,602 ",0.77
+Rider University,2033,83777," $105,674 ",0.79
+Rider University,2034,87821," $107,788 ",0.81
+Rider University,2035,92059," $109,944 ",0.84
+Rider University,2036,96503," $112,143 ",0.86
+Rider University,2037,101160," $114,385 ",0.88
+"St. Elizabeth, College of",1991,9550, na ,na
+"St. Elizabeth, College of",1992,9970, na ,na
+"St. Elizabeth, College of",1993,10615, na ,na
+"St. Elizabeth, College of",1994,11190," $40,927 ",0.27
+"St. Elizabeth, College of",1995,11810," $40,927 ",0.29
+"St. Elizabeth, College of",1996,12310," $40,927 ",0.3
+"St. Elizabeth, College of",1997,13030," $40,927 ",0.32
+"St. Elizabeth, College of",1998,13530," $40,927 ",0.33
+"St. Elizabeth, College of",1999,14030," $40,927 ",0.34
+"St. Elizabeth, College of",2000,14610," $40,927 ",0.36
+"St. Elizabeth, College of",2001,15310," $40,927 ",0.37
+"St. Elizabeth, College of",2002,16375," $55,146 ",0.3
+"St. Elizabeth, College of",2003,17400," $55,146 ",0.32
+"St. Elizabeth, College of",2004,18237," $55,146 ",0.33
+"St. Elizabeth, College of",2005,19640," $74,764 ",0.26
+"St. Elizabeth, College of",2006,21150," $75,701 ",0.28
+"St. Elizabeth, College of",2007,22547," $76,542 ",0.29
+"St. Elizabeth, College of",2008,24042," $77,387 ",0.31
+"St. Elizabeth, College of",2009,25058," $75,410 ",0.33
+"St. Elizabeth, College of",2010,26887," $73,492 ",0.37
+"St. Elizabeth, College of",2011,28221," $71,011 ",0.4
+"St. Elizabeth, College of",2012,29907," $71,836 ",0.42
+"St. Elizabeth, College of",2013,31095," $71,313 ",0.44
+"St. Elizabeth, College of",2014,31095," $71,919 ",0.43
+"St. Elizabeth, College of",2015,31688," $72,222 ",0.44
+"St. Elizabeth, College of",2016,31192," $76,126 ",0.41
+"St. Elizabeth, College of",2017,32890," $80,088 ",0.41
+"St. Elizabeth, College of",2018,33633," $80,088 ",0.42
+"St. Elizabeth, College of",2019,34347," $80,088 ",0.43
+"St. Elizabeth, College of",2020,35868," $81,690 ",0.44
+"St. Elizabeth, College of",2021,37456," $83,324 ",0.45
+"St. Elizabeth, College of",2022,39115," $84,990 ",0.46
+"St. Elizabeth, College of",2023,40847," $86,690 ",0.47
+"St. Elizabeth, College of",2024,42656," $88,424 ",0.48
+"St. Elizabeth, College of",2025,44545," $90,192 ",0.49
+"St. Elizabeth, College of",2026,46518," $91,996 ",0.51
+"St. Elizabeth, College of",2027,48578," $93,836 ",0.52
+"St. Elizabeth, College of",2028,50729," $95,713 ",0.53
+"St. Elizabeth, College of",2029,52976," $97,627 ",0.54
+"St. Elizabeth, College of",2030,55322," $99,579 ",0.56
+"St. Elizabeth, College of",2031,57772," $101,571 ",0.57
+"St. Elizabeth, College of",2032,60330," $103,602 ",0.58
+"St. Elizabeth, College of",2033,63002," $105,674 ",0.6
+"St. Elizabeth, College of",2034,65792," $107,788 ",0.61
+"St. Elizabeth, College of",2035,68706," $109,944 ",0.62
+"St. Elizabeth, College of",2036,71748," $112,143 ",0.64
+"St. Elizabeth, College of",2037,74926," $114,385 ",0.66
+St. Peter's College,1991,7575, na ,na
+St. Peter's College,1992,8385, na ,na
+St. Peter's College,1993,9605, na ,na
+St. Peter's College,1994,10305," $40,927 ",0.25
+St. Peter's College,1995,10965," $40,927 ",0.27
+St. Peter's College,1996,12260," $40,927 ",0.3
+St. Peter's College,1997,13286," $40,927 ",0.32
+St. Peter's College,1998,14366," $40,927 ",0.35
+St. Peter's College,1999,14886," $40,927 ",0.36
+St. Peter's College,2000,15606," $40,927 ",0.38
+St. Peter's College,2001,16552," $40,927 ",0.4
+St. Peter's College,2002,17358," $55,146 ",0.31
+St. Peter's College,2003,18592," $55,146 ",0.34
+St. Peter's College,2004,19750," $55,146 ",0.36
+St. Peter's College,2005,21190," $74,764 ",0.28
+St. Peter's College,2006,22650," $75,701 ",0.3
+St. Peter's College,2007,24026," $76,542 ",0.31
+St. Peter's College,2008,25666," $77,387 ",0.33
+St. Peter's College,2009,26870," $75,410 ",0.36
+St. Peter's College,2010,28332," $73,492 ",0.39
+St. Peter's College,2011,29800," $71,011 ",0.42
+St. Peter's College,2012,31220," $71,836 ",0.43
+St. Peter's College,2013,32284," $71,313 ",0.45
+St. Peter's College,2014,33232," $71,919 ",0.46
+St. Peter's College,2015,34198," $72,222 ",0.47
+St. Peter's College,2016,35192," $76,126 ",0.46
+St. Peter's College,2017,36042," $80,088 ",0.45
+St. Peter's College,2018,37486," $80,088 ",0.47
+St. Peter's College,2019,37677," $80,088 ",0.47
+St. Peter's College,2020,39387," $81,690 ",0.48
+St. Peter's College,2021,41174," $83,324 ",0.49
+St. Peter's College,2022,43042," $84,990 ",0.51
+St. Peter's College,2023,44994," $86,690 ",0.52
+St. Peter's College,2024,47036," $88,424 ",0.53
+St. Peter's College,2025,49170," $90,192 ",0.55
+St. Peter's College,2026,51400," $91,996 ",0.56
+St. Peter's College,2027,53732," $93,836 ",0.57
+St. Peter's College,2028,56170," $95,713 ",0.59
+St. Peter's College,2029,58718," $97,627 ",0.6
+St. Peter's College,2030,61383," $99,579 ",0.62
+St. Peter's College,2031,64167," $101,571 ",0.63
+St. Peter's College,2032,67079," $103,602 ",0.65
+St. Peter's College,2033,70122," $105,674 ",0.66
+St. Peter's College,2034,73303," $107,788 ",0.68
+St. Peter's College,2035,76629," $109,944 ",0.7
+St. Peter's College,2036,80106," $112,143 ",0.71
+St. Peter's College,2037,83740," $114,385 ",0.73
+Seton Hall University,1991,10450, na ,na
+Seton Hall University,1992,10960, na ,na
+Seton Hall University,1993,11380, na ,na
+Seton Hall University,1994,11800," $40,927 ",0.29
+Seton Hall University,1995,12250," $40,927 ",0.3
+Seton Hall University,1996,12850," $40,927 ",0.31
+Seton Hall University,1997,13600," $40,927 ",0.33
+Seton Hall University,1998,15680," $40,927 ",0.38
+Seton Hall University,1999,17360," $40,927 ",0.42
+Seton Hall University,2000,18290," $40,927 ",0.45
+Seton Hall University,2001,19400," $40,927 ",0.47
+Seton Hall University,2002,20830," $55,146 ",0.38
+Seton Hall University,2003,21580," $55,146 ",0.39
+Seton Hall University,2004,22440," $55,146 ",0.41
+Seton Hall University,2005,23460," $74,764 ",0.31
+Seton Hall University,2006,24720," $75,701 ",0.33
+Seton Hall University,2007,27850," $76,542 ",0.36
+Seton Hall University,2008,29630," $77,387 ",0.38
+Seton Hall University,2009,30470," $75,410 ",0.4
+Seton Hall University,2010,31890," $73,492 ",0.43
+Seton Hall University,2011,33490," $71,011 ",0.47
+Seton Hall University,2012,34750," $71,836 ",0.48
+Seton Hall University,2013,35820," $71,313 ",0.5
+Seton Hall University,2014,36926," $71,919 ",0.51
+Seton Hall University,2015,38072," $72,222 ",0.53
+Seton Hall University,2016,39258," $76,126 ",0.52
+Seton Hall University,2017,40588," $80,088 ",0.51
+Seton Hall University,2018,42170," $80,088 ",0.53
+Seton Hall University,2019,42498," $80,088 ",0.53
+Seton Hall University,2020,44498," $81,690 ",0.54
+Seton Hall University,2021,46592," $83,324 ",0.56
+Seton Hall University,2022,48785," $84,990 ",0.57
+Seton Hall University,2023,51081," $86,690 ",0.59
+Seton Hall University,2024,53484," $88,424 ",0.6
+Seton Hall University,2025,56001," $90,192 ",0.62
+Seton Hall University,2026,58637," $91,996 ",0.64
+Seton Hall University,2027,61396," $93,836 ",0.65
+Seton Hall University,2028,64286," $95,713 ",0.67
+Seton Hall University,2029,67311," $97,627 ",0.69
+Seton Hall University,2030,70479," $99,579 ",0.71
+Seton Hall University,2031,73795," $101,571 ",0.73
+Seton Hall University,2032,77268," $103,602 ",0.75
+Seton Hall University,2033,80904," $105,674 ",0.77
+Seton Hall University,2034,84712," $107,788 ",0.79
+Seton Hall University,2035,88698," $109,944 ",0.81
+Seton Hall University,2036,92872," $112,143 ",0.83
+Seton Hall University,2037,97243," $114,385 ",0.85
+Stevens Institute of Technology,1991,14990, na ,na
+Stevens Institute of Technology,1992,15723, na ,na
+Stevens Institute of Technology,1993,16727, na ,na
+Stevens Institute of Technology,1994,17290," $40,927 ",0.42
+Stevens Institute of Technology,1995,17730," $40,927 ",0.43
+Stevens Institute of Technology,1996,18550," $40,927 ",0.45
+Stevens Institute of Technology,1997,19375," $40,927 ",0.47
+Stevens Institute of Technology,1998,20400," $40,927 ",0.5
+Stevens Institute of Technology,1999,21415," $40,927 ",0.52
+Stevens Institute of Technology,2000,22475," $40,927 ",0.55
+Stevens Institute of Technology,2001,23890," $40,927 ",0.58
+Stevens Institute of Technology,2002,25650," $55,146 ",0.47
+Stevens Institute of Technology,2003,26870," $55,146 ",0.49
+Stevens Institute of Technology,2004,30148," $55,146 ",0.55
+Stevens Institute of Technology,2005,31435," $74,764 ",0.42
+Stevens Institute of Technology,2006,32995," $75,701 ",0.44
+Stevens Institute of Technology,2007,34545," $76,542 ",0.45
+Stevens Institute of Technology,2008,36280," $77,387 ",0.47
+Stevens Institute of Technology,2009,37980," $75,410 ",0.5
+Stevens Institute of Technology,2010,39816," $73,492 ",0.54
+Stevens Institute of Technology,2011,41782," $71,011 ",0.59
+Stevens Institute of Technology,2012,43196," $71,836 ",0.6
+Stevens Institute of Technology,2013,44490," $71,313 ",0.62
+Stevens Institute of Technology,2014,45366," $71,919 ",0.63
+Stevens Institute of Technology,2015,47190," $72,222 ",0.65
+Stevens Institute of Technology,2016,48838," $76,126 ",0.64
+Stevens Institute of Technology,2017,50554," $80,088 ",0.63
+Stevens Institute of Technology,2018,52202," $80,088 ",0.65
+Stevens Institute of Technology,2019,52598," $80,088 ",0.66
+Stevens Institute of Technology,2020,54724," $81,690 ",0.67
+Stevens Institute of Technology,2021,56937," $83,324 ",0.68
+Stevens Institute of Technology,2022,59239," $84,990 ",0.7
+Stevens Institute of Technology,2023,61634," $86,690 ",0.71
+Stevens Institute of Technology,2024,64126," $88,424 ",0.73
+Stevens Institute of Technology,2025,66718," $90,192 ",0.74
+Stevens Institute of Technology,2026,69416," $91,996 ",0.75
+Stevens Institute of Technology,2027,72222," $93,836 ",0.77
+Stevens Institute of Technology,2028,75142," $95,713 ",0.79
+Stevens Institute of Technology,2029,78180," $97,627 ",0.8
+Stevens Institute of Technology,2030,81341," $99,579 ",0.82
+Stevens Institute of Technology,2031,84629," $101,571 ",0.83
+Stevens Institute of Technology,2032,88051," $103,602 ",0.85
+Stevens Institute of Technology,2033,91611," $105,674 ",0.87
+Stevens Institute of Technology,2034,95315," $107,788 ",0.88
+Stevens Institute of Technology,2035,99168," $109,944 ",0.9
+Stevens Institute of Technology,2036,103178," $112,143 ",0.92
+Stevens Institute of Technology,2037,107349," $114,385 ",0.94
+PUBLIC-MISSION INDEPS AVERAGE,1991,10481, na ,na
+PUBLIC-MISSION INDEPS AVERAGE,1992,11124, na ,na
+PUBLIC-MISSION INDEPS AVERAGE,1993,11830, na ,na
+PUBLIC-MISSION INDEPS AVERAGE,1994,12401," $40,927 ",0.3
+PUBLIC-MISSION INDEPS AVERAGE,1995,12998," $40,927 ",0.32
+PUBLIC-MISSION INDEPS AVERAGE,1996,13714," $40,927 ",0.34
+PUBLIC-MISSION INDEPS AVERAGE,1997,14442," $40,927 ",0.35
+PUBLIC-MISSION INDEPS AVERAGE,1998,15270," $40,927 ",0.37
+PUBLIC-MISSION INDEPS AVERAGE,1999,16011," $40,927 ",0.39
+PUBLIC-MISSION INDEPS AVERAGE,2000,16793," $40,927 ",0.41
+PUBLIC-MISSION INDEPS AVERAGE,2001,17705," $40,927 ",0.43
+PUBLIC-MISSION INDEPS AVERAGE,2002,18802," $55,146 ",0.34
+PUBLIC-MISSION INDEPS AVERAGE,2003,20184," $55,146 ",0.37
+PUBLIC-MISSION INDEPS AVERAGE,2004,21553," $55,146 ",0.39
+PUBLIC-MISSION INDEPS AVERAGE,2005,22906," $74,764 ",0.31
+PUBLIC-MISSION INDEPS AVERAGE,2006,24296," $75,701 ",0.32
+PUBLIC-MISSION INDEPS AVERAGE,2007,25908," $76,542 ",0.34
+PUBLIC-MISSION INDEPS AVERAGE,2008,27424," $77,387 ",0.35
+PUBLIC-MISSION INDEPS AVERAGE,2009,28654," $75,410 ",0.38
+PUBLIC-MISSION INDEPS AVERAGE,2010,30206," $73,492 ",0.41
+PUBLIC-MISSION INDEPS AVERAGE,2011,31610," $71,011 ",0.45
+PUBLIC-MISSION INDEPS AVERAGE,2012,32945," $71,836 ",0.46
+PUBLIC-MISSION INDEPS AVERAGE,2013,34076," $71,313 ",0.48
+PUBLIC-MISSION INDEPS AVERAGE,2014,35084," $71,919 ",0.49
+PUBLIC-MISSION INDEPS AVERAGE,2015,35142," $72,222 ",0.49
+PUBLIC-MISSION INDEPS AVERAGE,2016,36515," $76,126 ",0.48
+PUBLIC-MISSION INDEPS AVERAGE,2017,37427," $80,088 ",0.47
+PUBLIC-MISSION INDEPS AVERAGE,2018,37935," $80,088 ",0.47
+PUBLIC-MISSION INDEPS AVERAGE,2019,38995," $80,088 ",0.49
+PUBLIC-MISSION INDEPS AVERAGE,2020,40630," $81,690 ",0.5
+PUBLIC-MISSION INDEPS AVERAGE,2021,42332," $83,324 ",0.51
+PUBLIC-MISSION INDEPS AVERAGE,2022,44106," $84,990 ",0.52
+PUBLIC-MISSION INDEPS AVERAGE,2023,45955," $86,690 ",0.53
+PUBLIC-MISSION INDEPS AVERAGE,2024,47881," $88,424 ",0.54
+PUBLIC-MISSION INDEPS AVERAGE,2025,49887," $90,192 ",0.55
+PUBLIC-MISSION INDEPS AVERAGE,2026,51978," $91,996 ",0.56
+PUBLIC-MISSION INDEPS AVERAGE,2027,54156," $93,836 ",0.58
+PUBLIC-MISSION INDEPS AVERAGE,2028,56425," $95,713 ",0.59
+PUBLIC-MISSION INDEPS AVERAGE,2029,58790," $97,627 ",0.6
+PUBLIC-MISSION INDEPS AVERAGE,2030,61254," $99,579 ",0.62
+PUBLIC-MISSION INDEPS AVERAGE,2031,63821," $101,571 ",0.63
+PUBLIC-MISSION INDEPS AVERAGE,2032,66495," $103,602 ",0.64
+PUBLIC-MISSION INDEPS AVERAGE,2033,69282," $105,674 ",0.66
+PUBLIC-MISSION INDEPS AVERAGE,2034,72185," $107,788 ",0.67
+PUBLIC-MISSION INDEPS AVERAGE,2035,75210," $109,944 ",0.68
+PUBLIC-MISSION INDEPS AVERAGE,2036,78362," $112,143 ",0.7
+PUBLIC-MISSION INDEPS AVERAGE,2037,81646," $114,385 ",0.71
