@@ -250,7 +250,7 @@ function create_cards(data) {
 
 
 
-                        gridsquares += '<p>The average student loan debt in New Jersey in 2017 was <span class="bolded"> $32,254.</span> Multiple studies show it takes a typical person in the United States about <span class="bolded">20 years</span> to pay of their student loans today. In New Jersey, that would be an annual payment of approximately <span class="bolded">$2,534</span> each year at a <span class="bolded">5% interest rate</span>.</p><p>Since mothers in New Jersey, on average, have their first child at <span class="bolded">29 years-old</span>, these parents could easily still be paying off their student loans when that child <span class="bolded">is a teenager.</span>'
+                        gridsquares += '<p>The average student loan debt in New Jersey in 2017 was <span class="bolded1"> $32,254.</span> Multiple studies show it takes a typical person in the United States about <span class="bolded1">20 years</span> to pay of their student loans today. In New Jersey, that would be an annual payment of approximately <span class="bolded1">$2,534</span> each year at a <span class="bolded1">5% interest rate</span>.</p><p>Since mothers in New Jersey, on average, have their first child at <span class="bolded1">29 years-old</span>, these parents could easily still be paying off their student loans when that child <span class="bolded1">is a teenager.</span>'
 
 
 
@@ -258,7 +258,7 @@ function create_cards(data) {
 
                         // // Fourth Section
 
-                        gridsquares += '<table><thead><tr><th><img src="img/green.jpg"></th><th>Public/Private Avg.</th><th><img src="img/red.jpg"></th><th>' + key["second-ref"] + '</th></tr></thead></table>'
+                        gridsquares += '<table><thead><tr><th><img src="img/' + key["legendfront"] + '.jpg"></th><th>' + key["County"] + '</th><th><img src="img/' + key["legendback"] + '.jpg"></th><th>' + key["legendtext"] + '</th></tr></thead></table>'
 
 
 

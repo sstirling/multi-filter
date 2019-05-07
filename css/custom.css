@@ -80,7 +80,7 @@ h2 {
     text-transform: uppercase;
 /*    font-family: 'Oswald', sans-serif;
 */    font-weight: bold;
-    color: #cc4f3e;
+    color: #000;
     margin-bottom: 10px;
 }
 .element-item .crit {
@@ -90,18 +90,26 @@ h2 {
     text-transform: uppercase;
 /*    font-family: 'Oswald', sans-serif;
 */    font-weight: bold;
-    color: #cc4f3e;
+    color: #35a67f;
 }
 .element-item .separate {
     color: #333;
     font-weight: bold;
 }
 .element-item .bolded {
-    color: #cc4f3e;
+    color: #35a67f;
+    font-weight: bold;
+    font-size: 16px;
+    padding-top: 0;
+}
+
+.element-item .bolded1 {
+    color: #000;
     font-weight: bold;
     font-size: 14px;
     padding-top: 0;
 }
+
 .element-item .race {
     color: #333;
     font-weight: bold;
