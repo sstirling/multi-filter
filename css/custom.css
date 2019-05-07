@@ -80,7 +80,7 @@ h2 {
     text-transform: uppercase;
 /*    font-family: 'Oswald', sans-serif;
 */    font-weight: bold;
-    color: #000;
+    color: #383838;
     margin-bottom: 10px;
 }
 .element-item .crit {
@@ -104,7 +104,7 @@ h2 {
 }
 
 .element-item .bolded1 {
-    color: #000;
+    color: #383838;
     font-weight: bold;
     font-size: 14px;
     padding-top: 0;

@@ -42,7 +42,7 @@ var town1value;
 // Initially hide the second county and town divs
 
 // $('#county2').hide();
-$('#town1').hide();
+//$('#town1').hide();
 // $('#town2').hide();
 
 
@@ -233,24 +233,29 @@ function create_cards(data) {
                         // Name of county/town and Margin of Error text
                         gridsquares += '<p class="name">' + key["County"] + '</p>'
 
+                        gridsquares += '<img src="img/college.svg" width="40px"<br>'
+
+
 
                         // First Section
 
-                        gridsquares += '<p>In<span class="bolded"> ' + key["ledgerstyle"] + ", " + key["second-ref"] + '</span> will cost <span class="bolded">$' + key["cost"].toLocaleString() + "</span> if prices continue to rise at the rate they have for the last 10 years. </p>"
+                        gridsquares += '<p><span class="bolded">In ' + key["ledgerstyle"] + ", " + key["second-ref"] + '</span> will cost <span class="bolded">$' + key["cost"].toLocaleString() + "</span> per year (not including housing), if prices continue to rise at the rate they have for the last 10 years. </p>"
 
 
                         // // Second Section 
 
 
 
-                        gridsquares += '<p>This will be <span class="bolded"> ' + key["inc-100"] + "% " + '</span> of the estimated median household income of <span class="bolded">$' + key["mi"].toLocaleString() + "</span>, should income continue to rise with the price of inflation. </p>"
+                        gridsquares += '<p>This will be <span class="bolded"> ' + key["inc-100"] + "% " + '</span> of the estimated median household income of <span class="bolded">$' + key["mi"].toLocaleString() + "</span>, should income continue to rise with the price of inflation.</p>"
 
 
                         // // Third Section 
 
 
+                        gridsquares += '<img src="img/loans.svg" width="40px"<br>'
 
-                        gridsquares += '<p>The average student loan debt in New Jersey in 2017 was <span class="bolded1"> $32,254.</span> Multiple studies show it takes a typical person in the United States about <span class="bolded1">20 years</span> to pay of their student loans today. In New Jersey, that would be an annual payment of approximately <span class="bolded1">$2,534</span> each year at a <span class="bolded1">5% interest rate</span>.</p><p>Since mothers in New Jersey, on average, have their first child at <span class="bolded1">29 years-old</span>, these parents could easily still be paying off their student loans when that child <span class="bolded1">is a teenager.</span>'
+
+                        gridsquares += '<p>The average student loan debt in New Jersey in 2017 was <span class="bolded1"> $32,254.</span> Multiple studies show it takes a typical person in the United States about <span class="bolded1">20 years</span> to pay of their student loans today. In New Jersey, that would be an annual payment of approximately <span class="bolded1">$2,534</span> each year at a <span class="bolded1">5% interest rate</span>.</p><p>Since mothers in New Jersey, on average, have their first child at <span class="bolded1">29 years-old</span>, these parents could easily still be paying off their student loans when that child <span class="bolded1">is a teenager.</span><br>'
 
 
 
