@@ -18,7 +18,7 @@ New Jersey Institute of Technology,NJIT,green,purple,Public average,NJIT,2034,34
 New Jersey Institute of Technology,NJIT,green,purple,Public average,NJIT,2035,36603,109944,0,33,146412,192,677.8333333,419.28
 New Jersey Institute of Technology,NJIT,green,purple,Public average,NJIT,2036,38306,112143,0,34,153224,204,709.3703704,438.78
 New Jersey Institute of Technology,NJIT,green,purple,Public average,NJIT,2037,40088,114385,0,35,160352,216,742.3703704,459.20
-Rutgers University (All campus average),Rutgers,green,purple,Public average,Rutgers,2019,15215,80088,0,19,60860,n/a,281.7592593,174.28
+Rutgers University (All campus average),Rutgers,green,purple,Public average,Rutgers,2019,14974,80088,0,19,60860,n/a,281.7592593,174.28
 Rutgers University (All campus average),Rutgers,green,purple,Public average,Rutgers,2020,15814,81690,0,19,63256,12,292.8518519,181.14
 Rutgers University (All campus average),Rutgers,green,purple,Public average,Rutgers,2021,16437,83324,0,20,65748,24,304.3888889,188.28
 Rutgers University (All campus average),Rutgers,green,purple,Public average,Rutgers,2022,17084,84990,0,20,68336,36,316.3703704,195.69
@@ -132,25 +132,25 @@ Stockton University,Stockton,green,purple,Public average,Stockton,2034,25128,107
 Stockton University,Stockton,green,purple,Public average,Stockton,2035,26134,109944,0,24,104536,192,483.962963,299.36
 Stockton University,Stockton,green,purple,Public average,Stockton,2036,27181,112143,0,24,108724,204,503.3518519,311.35
 Stockton University,Stockton,green,purple,Public average,Stockton,2037,28270,114385,0,25,113080,216,523.5185185,323.82
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2019,14648,80088,0,18,58592,n/a,271.2592593,167.79
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2020,15240,81690,0,19,60960,12,282.2222222,174.57
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2021,15855,83324,0,19,63420,24,293.6111111,181.61
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2022,16495,84990,0,19,65980,36,305.462963,188.95
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2023,17161,86690,0,20,68644,48,317.7962963,196.57
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2024,17854,88424,0,20,71416,60,330.6296296,204.51
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2025,18575,90192,0,21,74300,72,343.9814815,212.77
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2026,19325,91996,0,21,77300,84,357.8703704,221.36
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2027,20105,93836,0,21,80420,96,372.3148148,230.30
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2028,20916,95713,0,22,83664,108,387.3333333,239.59
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2029,21761,97627,0,22,87044,120,402.9814815,249.27
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2030,22639,99579,0,23,90556,132,419.2407407,259.32
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2031,23553,101571,0,23,94212,144,436.1666667,269.79
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2032,24504,103602,0,24,98016,156,453.7777778,280.69
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2033,25493,105674,0,24,101972,168,472.0925926,292.01
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2034,26523,107788,0,25,106092,180,491.1666667,303.81
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2035,27593,109944,0,25,110372,192,510.9814815,316.07
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2036,28707,112143,0,26,114828,204,531.6111111,328.83
-Ramapo College of New Jersey,Ramapo,green,purple,Public average,Ramapo,2037,29866,114385,0,26,119464,216,553.0740741,342.11
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2019,14648,80088,0,18,58592,n/a,271.2592593,167.79
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2020,15240,81690,0,19,60960,12,282.2222222,174.57
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2021,15855,83324,0,19,63420,24,293.6111111,181.61
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2022,16495,84990,0,19,65980,36,305.462963,188.95
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2023,17161,86690,0,20,68644,48,317.7962963,196.57
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2024,17854,88424,0,20,71416,60,330.6296296,204.51
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2025,18575,90192,0,21,74300,72,343.9814815,212.77
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2026,19325,91996,0,21,77300,84,357.8703704,221.36
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2027,20105,93836,0,21,80420,96,372.3148148,230.30
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2028,20916,95713,0,22,83664,108,387.3333333,239.59
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2029,21761,97627,0,22,87044,120,402.9814815,249.27
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2030,22639,99579,0,23,90556,132,419.2407407,259.32
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2031,23553,101571,0,23,94212,144,436.1666667,269.79
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2032,24504,103602,0,24,98016,156,453.7777778,280.69
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2033,25493,105674,0,24,101972,168,472.0925926,292.01
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2034,26523,107788,0,25,106092,180,491.1666667,303.81
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2035,27593,109944,0,25,110372,192,510.9814815,316.07
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2036,28707,112143,0,26,114828,204,531.6111111,328.83
+Ramapo College,Ramapo,green,purple,Public average,Ramapo,2037,29866,114385,0,26,119464,216,553.0740741,342.11
 Rowan University,Rowan,green,purple,Public average,Rowan,2019,13933,80088,0,17,55732,n/a,258.0185185,159.60
 Rowan University,Rowan,green,purple,Public average,Rowan,2020,14463,81690,0,18,57852,12,267.8333333,165.67
 Rowan University,Rowan,green,purple,Public average,Rowan,2021,15014,83324,0,18,60056,24,278.037037,171.98
@@ -170,25 +170,25 @@ Rowan University,Rowan,green,purple,Public average,Rowan,2034,24402,107788,0,23,
 Rowan University,Rowan,green,purple,Public average,Rowan,2035,25331,109944,0,23,101324,192,469.0925926,290.16
 Rowan University,Rowan,green,purple,Public average,Rowan,2036,26296,112143,0,23,105184,204,486.962963,301.21
 Rowan University,Rowan,green,purple,Public average,Rowan,2037,27297,114385,0,24,109188,216,505.5,312.68
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2019,13220,80088,0,17,52880,n/a,244.8148148,151.43
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2020,13650,81690,0,17,54600,12,252.7777778,156.36
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2021,14094,83324,0,17,56376,24,261,161.44
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2022,14553,84990,0,17,58212,36,269.5,166.70
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2023,15026,86690,0,17,60104,48,278.2592593,172.12
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2024,15515,88424,0,18,62060,60,287.3148148,177.72
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2025,16019,90192,0,18,64076,72,296.6481481,183.49
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2026,16540,91996,0,18,66160,84,306.2962963,189.46
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2027,17078,93836,0,18,68312,96,316.2592593,195.62
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2028,17634,95713,0,18,70536,108,326.5555556,201.99
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2029,18207,97627,0,19,72828,120,337.1666667,208.56
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2030,18799,99579,0,19,75196,132,348.1296296,215.34
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2031,19411,101571,0,19,77644,144,359.462963,222.35
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2032,20042,103602,0,19,80168,156,371.1481481,229.57
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2033,20694,105674,0,20,82776,168,383.2222222,237.04
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2034,21367,107788,0,20,85468,180,395.6851852,244.75
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2035,22062,109944,0,20,88248,192,408.5555556,252.71
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2036,22779,112143,0,20,91116,204,421.8333333,260.93
-WIlliam Paterson University of New Jersey,WPU,green,purple,Public average,William Paterson,2037,23520,114385,0,21,94080,216,435.5555556,269.41
+William Paterson University,WPU,green,purple,Public average,William Paterson,2019,13220,80088,0,17,52880,n/a,244.8148148,151.43
+William Paterson University,WPU,green,purple,Public average,William Paterson,2020,13650,81690,0,17,54600,12,252.7777778,156.36
+William Paterson University,WPU,green,purple,Public average,William Paterson,2021,14094,83324,0,17,56376,24,261,161.44
+William Paterson University,WPU,green,purple,Public average,William Paterson,2022,14553,84990,0,17,58212,36,269.5,166.70
+William Paterson University,WPU,green,purple,Public average,William Paterson,2023,15026,86690,0,17,60104,48,278.2592593,172.12
+William Paterson University,WPU,green,purple,Public average,William Paterson,2024,15515,88424,0,18,62060,60,287.3148148,177.72
+William Paterson University,WPU,green,purple,Public average,William Paterson,2025,16019,90192,0,18,64076,72,296.6481481,183.49
+William Paterson University,WPU,green,purple,Public average,William Paterson,2026,16540,91996,0,18,66160,84,306.2962963,189.46
+William Paterson University,WPU,green,purple,Public average,William Paterson,2027,17078,93836,0,18,68312,96,316.2592593,195.62
+William Paterson University,WPU,green,purple,Public average,William Paterson,2028,17634,95713,0,18,70536,108,326.5555556,201.99
+William Paterson University,WPU,green,purple,Public average,William Paterson,2029,18207,97627,0,19,72828,120,337.1666667,208.56
+William Paterson University,WPU,green,purple,Public average,William Paterson,2030,18799,99579,0,19,75196,132,348.1296296,215.34
+William Paterson University,WPU,green,purple,Public average,William Paterson,2031,19411,101571,0,19,77644,144,359.462963,222.35
+William Paterson University,WPU,green,purple,Public average,William Paterson,2032,20042,103602,0,19,80168,156,371.1481481,229.57
+William Paterson University,WPU,green,purple,Public average,William Paterson,2033,20694,105674,0,20,82776,168,383.2222222,237.04
+William Paterson University,WPU,green,purple,Public average,William Paterson,2034,21367,107788,0,20,85468,180,395.6851852,244.75
+William Paterson University,WPU,green,purple,Public average,William Paterson,2035,22062,109944,0,20,88248,192,408.5555556,252.71
+William Paterson University,WPU,green,purple,Public average,William Paterson,2036,22779,112143,0,20,91116,204,421.8333333,260.93
+William Paterson University,WPU,green,purple,Public average,William Paterson,2037,23520,114385,0,21,94080,216,435.5555556,269.41
 Public School Average,test,purple,red,All schools average,"on average, state schools",2019,14340,80088,0,18,57360,n/a,265.5555556,164.26
 Public School Average,test,purple,red,All schools average,"on average, state schools",2020,14931,81690,0,18,59724,12,276.5,171.03
 Public School Average,test,purple,red,All schools average,"on average, state schools",2021,15547,83324,0,19,62188,24,287.9074074,178.09
@@ -227,44 +227,44 @@ Bloomfield College,Bloomfield,green,purple,Private school average,Bloomfield Col
 Bloomfield College,Bloomfield,green,purple,Private school average,Bloomfield College,2035,75383,109944,1,69,301532,192,1395.981481,863.49
 Bloomfield College,Bloomfield,green,purple,Private school average,Bloomfield College,2036,79692,112143,1,71,318768,204,1475.777778,912.85
 Bloomfield College,Bloomfield,green,purple,Private school average,Bloomfield College,2037,84248,114385,1,74,336992,216,1560.148148,965.03
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2019,35653,80088,0,45,142612,n/a,660.2407407,408.39
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2020,37440,81690,0,46,149760,12,693.3333333,428.86
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2021,39318,83324,0,47,157272,24,728.1111111,450.38
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2022,41290,84990,0,49,165160,36,764.6296296,472.96
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2023,43360,86690,1,50,173440,48,802.962963,496.68
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2024,45535,88424,1,51,182140,60,843.2407407,521.59
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2025,47819,90192,1,53,191276,72,885.537037,547.75
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2026,50217,91996,1,55,200868,84,929.9444444,575.22
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2027,52735,93836,1,56,210940,96,976.5740741,604.06
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2028,55379,95713,1,58,221516,108,1025.537037,634.35
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2029,58157,97627,1,60,232628,120,1076.981481,666.17
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2030,61073,99579,1,61,244292,132,1130.981481,699.57
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2031,64136,101571,1,63,256544,144,1187.703704,734.66
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2032,67352,103602,1,65,269408,156,1247.259259,771.50
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2033,70730,105674,1,67,282920,168,1309.814815,810.19
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2034,74277,107788,1,69,297108,180,1375.5,850.82
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2035,78002,109944,1,71,312008,192,1444.481481,893.49
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2036,81914,112143,1,73,327656,204,1516.925926,938.30
-Caldwell College,Caldwell,green,purple,Private school average,Caldwell College,2037,86021,114385,1,75,344084,216,1592.981481,985.34
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2019,33843,80088,0,42,135372,n/a,626.7222222,387.66
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2020,35155,81690,0,43,140620,12,651.0185185,402.69
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2021,36517,83324,0,44,146068,24,676.2407407,418.29
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2022,37933,84990,0,45,151732,36,702.462963,434.51
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2023,39403,86690,0,45,157612,48,729.6851852,451.35
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2024,40930,88424,0,46,163720,60,757.962963,468.84
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2025,42517,90192,0,47,170068,72,787.3518519,487.02
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2026,44165,91996,0,48,176660,84,817.8703704,505.90
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2027,45877,93836,0,49,183508,96,849.5740741,525.51
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2028,47655,95713,1,50,190620,108,882.5,545.87
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2029,49502,97627,1,51,198008,120,916.7037037,567.03
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2030,51421,99579,1,52,205684,132,952.2407407,589.01
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2031,53414,101571,1,53,213656,144,989.1481481,611.84
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2032,55484,103602,1,54,221936,156,1027.481481,635.55
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2033,57635,105674,1,55,230540,168,1067.314815,660.19
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2034,59869,107788,1,56,239476,180,1108.685185,685.78
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2035,62190,109944,1,57,248760,192,1151.666667,712.37
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2036,64600,112143,1,58,258400,204,1196.296296,739.97
-Centenary College,Centenary,green,purple,Private school average,Centenary College,2037,67104,114385,1,59,268416,216,1242.666667,768.66
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2019,35653,80088,0,45,142612,n/a,660.2407407,408.39
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2020,37440,81690,0,46,149760,12,693.3333333,428.86
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2021,39318,83324,0,47,157272,24,728.1111111,450.38
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2022,41290,84990,0,49,165160,36,764.6296296,472.96
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2023,43360,86690,1,50,173440,48,802.962963,496.68
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2024,45535,88424,1,51,182140,60,843.2407407,521.59
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2025,47819,90192,1,53,191276,72,885.537037,547.75
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2026,50217,91996,1,55,200868,84,929.9444444,575.22
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2027,52735,93836,1,56,210940,96,976.5740741,604.06
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2028,55379,95713,1,58,221516,108,1025.537037,634.35
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2029,58157,97627,1,60,232628,120,1076.981481,666.17
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2030,61073,99579,1,61,244292,132,1130.981481,699.57
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2031,64136,101571,1,63,256544,144,1187.703704,734.66
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2032,67352,103602,1,65,269408,156,1247.259259,771.50
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2033,70730,105674,1,67,282920,168,1309.814815,810.19
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2034,74277,107788,1,69,297108,180,1375.5,850.82
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2035,78002,109944,1,71,312008,192,1444.481481,893.49
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2036,81914,112143,1,73,327656,204,1516.925926,938.30
+Caldwell University,Caldwell,green,purple,Private school average,Caldwell College,2037,86021,114385,1,75,344084,216,1592.981481,985.34
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2019,33843,80088,0,42,135372,n/a,626.7222222,387.66
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2020,35155,81690,0,43,140620,12,651.0185185,402.69
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2021,36517,83324,0,44,146068,24,676.2407407,418.29
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2022,37933,84990,0,45,151732,36,702.462963,434.51
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2023,39403,86690,0,45,157612,48,729.6851852,451.35
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2024,40930,88424,0,46,163720,60,757.962963,468.84
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2025,42517,90192,0,47,170068,72,787.3518519,487.02
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2026,44165,91996,0,48,176660,84,817.8703704,505.90
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2027,45877,93836,0,49,183508,96,849.5740741,525.51
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2028,47655,95713,1,50,190620,108,882.5,545.87
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2029,49502,97627,1,51,198008,120,916.7037037,567.03
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2030,51421,99579,1,52,205684,132,952.2407407,589.01
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2031,53414,101571,1,53,213656,144,989.1481481,611.84
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2032,55484,103602,1,54,221936,156,1027.481481,635.55
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2033,57635,105674,1,55,230540,168,1067.314815,660.19
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2034,59869,107788,1,56,239476,180,1108.685185,685.78
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2035,62190,109944,1,57,248760,192,1151.666667,712.37
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2036,64600,112143,1,58,258400,204,1196.296296,739.97
+Centenary University,Centenary,green,purple,Private school average,Centenary College,2037,67104,114385,1,59,268416,216,1242.666667,768.66
 Drew University,Drew,green,purple,Private school average,Drew,2019,51062,80088,1,64,204248,n/a,945.5925926,584.90
 Drew University,Drew,green,purple,Private school average,Drew,2020,53029,81690,1,65,212116,12,982.0185185,607.43
 Drew University,Drew,green,purple,Private school average,Drew,2021,55071,83324,1,66,220284,24,1019.833333,630.82
@@ -303,44 +303,44 @@ Fairleigh Dickinson University,FDU,green,purple,Private school average,FDU,2034,
 Fairleigh Dickinson University,FDU,green,purple,Private school average,FDU,2035,90532,109944,1,82,362128,192,1676.518519,1037.02
 Fairleigh Dickinson University,FDU,green,purple,Private school average,FDU,2036,94746,112143,1,84,378984,204,1754.555556,1085.29
 Fairleigh Dickinson University,FDU,green,purple,Private school average,FDU,2037,99155,114385,1,87,396620,216,1836.203704,1135.79
-Felician College,Felician,green,purple,Private school average,Felician College,2019,35285,80088,0,44,141140,n/a,653.4259259,404.18
-Felician College,Felician,green,purple,Private school average,Felician College,2020,36999,81690,0,45,147996,12,685.1666667,423.81
-Felician College,Felician,green,purple,Private school average,Felician College,2021,38796,83324,0,47,155184,24,718.4444444,444.40
-Felician College,Felician,green,purple,Private school average,Felician College,2022,40681,84990,0,48,162724,36,753.3518519,465.99
-Felician College,Felician,green,purple,Private school average,Felician College,2023,42657,86690,0,49,170628,48,789.9444444,488.62
-Felician College,Felician,green,purple,Private school average,Felician College,2024,44729,88424,1,51,178916,60,828.3148148,512.36
-Felician College,Felician,green,purple,Private school average,Felician College,2025,46902,90192,1,52,187608,72,868.5555556,537.25
-Felician College,Felician,green,purple,Private school average,Felician College,2026,49181,91996,1,53,196724,84,910.7592593,563.35
-Felician College,Felician,green,purple,Private school average,Felician College,2027,51570,93836,1,55,206280,96,955,590.72
-Felician College,Felician,green,purple,Private school average,Felician College,2028,54075,95713,1,56,216300,108,1001.388889,619.41
-Felician College,Felician,green,purple,Private school average,Felician College,2029,56702,97627,1,58,226808,120,1050.037037,649.50
-Felician College,Felician,green,purple,Private school average,Felician College,2030,59457,99579,1,60,237828,132,1101.055556,681.06
-Felician College,Felician,green,purple,Private school average,Felician College,2031,62345,101571,1,61,249380,144,1154.537037,714.14
-Felician College,Felician,green,purple,Private school average,Felician College,2032,65374,103602,1,63,261496,156,1210.62963,748.84
-Felician College,Felician,green,purple,Private school average,Felician College,2033,68550,105674,1,65,274200,168,1269.444444,785.22
-Felician College,Felician,green,purple,Private school average,Felician College,2034,71880,107788,1,67,287520,180,1331.111111,823.36
-Felician College,Felician,green,purple,Private school average,Felician College,2035,75372,109944,1,69,301488,192,1395.777778,863.36
-Felician College,Felician,green,purple,Private school average,Felician College,2036,79033,112143,1,70,316132,204,1463.574074,905.30
-Felician College,Felician,green,purple,Private school average,Felician College,2037,82873,114385,1,72,331492,216,1534.685185,949.28
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2019,33714,80088,0,42,134856,n/a,624.3333333,386.18
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2020,35233,81690,0,43,140932,12,652.462963,403.58
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2021,36820,83324,0,44,147280,24,681.8518519,421.76
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2022,38479,84990,0,45,153916,36,712.5740741,440.76
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2023,40213,86690,0,46,160852,48,744.6851852,460.63
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2024,42025,88424,0,48,168100,60,778.2407407,481.38
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2025,43918,90192,0,49,175672,72,813.2962963,503.07
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2026,45897,91996,1,50,183588,84,849.9444444,525.74
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2027,47965,93836,1,51,191860,96,888.2407407,549.42
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2028,50126,95713,1,52,200504,108,928.2592593,574.18
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2029,52385,97627,1,54,209540,120,970.0925926,600.05
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2030,54745,99579,1,55,218980,132,1013.796296,627.09
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2031,57212,101571,1,56,228848,144,1059.481481,655.35
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2032,59790,103602,1,58,239160,156,1107.222222,684.88
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2033,62484,105674,1,59,249936,168,1157.111111,715.73
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2034,65299,107788,1,61,261196,180,1209.240741,747.98
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2035,68241,109944,1,62,272964,192,1263.722222,781.68
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2036,71316,112143,1,64,285264,204,1320.666667,816.90
-Georgian Court College,GCC,green,purple,Private school average,Georgian Court,2037,74529,114385,1,65,298116,216,1380.166667,853.71
+Felician University,Felician,green,purple,Private school average,Felician College,2019,35285,80088,0,44,141140,n/a,653.4259259,404.18
+Felician University,Felician,green,purple,Private school average,Felician College,2020,36999,81690,0,45,147996,12,685.1666667,423.81
+Felician University,Felician,green,purple,Private school average,Felician College,2021,38796,83324,0,47,155184,24,718.4444444,444.40
+Felician University,Felician,green,purple,Private school average,Felician College,2022,40681,84990,0,48,162724,36,753.3518519,465.99
+Felician University,Felician,green,purple,Private school average,Felician College,2023,42657,86690,0,49,170628,48,789.9444444,488.62
+Felician University,Felician,green,purple,Private school average,Felician College,2024,44729,88424,1,51,178916,60,828.3148148,512.36
+Felician University,Felician,green,purple,Private school average,Felician College,2025,46902,90192,1,52,187608,72,868.5555556,537.25
+Felician University,Felician,green,purple,Private school average,Felician College,2026,49181,91996,1,53,196724,84,910.7592593,563.35
+Felician University,Felician,green,purple,Private school average,Felician College,2027,51570,93836,1,55,206280,96,955,590.72
+Felician University,Felician,green,purple,Private school average,Felician College,2028,54075,95713,1,56,216300,108,1001.388889,619.41
+Felician University,Felician,green,purple,Private school average,Felician College,2029,56702,97627,1,58,226808,120,1050.037037,649.50
+Felician University,Felician,green,purple,Private school average,Felician College,2030,59457,99579,1,60,237828,132,1101.055556,681.06
+Felician University,Felician,green,purple,Private school average,Felician College,2031,62345,101571,1,61,249380,144,1154.537037,714.14
+Felician University,Felician,green,purple,Private school average,Felician College,2032,65374,103602,1,63,261496,156,1210.62963,748.84
+Felician University,Felician,green,purple,Private school average,Felician College,2033,68550,105674,1,65,274200,168,1269.444444,785.22
+Felician University,Felician,green,purple,Private school average,Felician College,2034,71880,107788,1,67,287520,180,1331.111111,823.36
+Felician University,Felician,green,purple,Private school average,Felician College,2035,75372,109944,1,69,301488,192,1395.777778,863.36
+Felician University,Felician,green,purple,Private school average,Felician College,2036,79033,112143,1,70,316132,204,1463.574074,905.30
+Felician University,Felician,green,purple,Private school average,Felician College,2037,82873,114385,1,72,331492,216,1534.685185,949.28
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2019,33714,80088,0,42,134856,n/a,624.3333333,386.18
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2020,35233,81690,0,43,140932,12,652.462963,403.58
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2021,36820,83324,0,44,147280,24,681.8518519,421.76
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2022,38479,84990,0,45,153916,36,712.5740741,440.76
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2023,40213,86690,0,46,160852,48,744.6851852,460.63
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2024,42025,88424,0,48,168100,60,778.2407407,481.38
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2025,43918,90192,0,49,175672,72,813.2962963,503.07
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2026,45897,91996,1,50,183588,84,849.9444444,525.74
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2027,47965,93836,1,51,191860,96,888.2407407,549.42
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2028,50126,95713,1,52,200504,108,928.2592593,574.18
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2029,52385,97627,1,54,209540,120,970.0925926,600.05
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2030,54745,99579,1,55,218980,132,1013.796296,627.09
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2031,57212,101571,1,56,228848,144,1059.481481,655.35
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2032,59790,103602,1,58,239160,156,1107.222222,684.88
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2033,62484,105674,1,59,249936,168,1157.111111,715.73
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2034,65299,107788,1,61,261196,180,1209.240741,747.98
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2035,68241,109944,1,62,272964,192,1263.722222,781.68
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2036,71316,112143,1,64,285264,204,1320.666667,816.90
+Georgian Court University,GCC,green,purple,Private school average,Georgian Court,2037,74529,114385,1,65,298116,216,1380.166667,853.71
 Monmouth University,Monmouth,green,purple,Private school average,Monmouth,2019,38534,80088,0,48,154136,n/a,713.5925926,441.39
 Monmouth University,Monmouth,green,purple,Private school average,Monmouth,2020,40424,81690,0,49,161696,12,748.5925926,463.04
 Monmouth University,Monmouth,green,purple,Private school average,Monmouth,2021,42407,83324,1,51,169628,24,785.3148148,485.76
@@ -417,25 +417,25 @@ College of St. Elizabeth,steliz,green,purple,Private school average,St. Elizabet
 College of St. Elizabeth,steliz,green,purple,Private school average,St. Elizabeth,2035,68706,109944,1,62,274824,192,1272.333333,787.01
 College of St. Elizabeth,steliz,green,purple,Private school average,St. Elizabeth,2036,71748,112143,1,64,286992,204,1328.666667,821.85
 College of St. Elizabeth,steliz,green,purple,Private school average,St. Elizabeth,2037,74926,114385,1,66,299704,216,1387.518519,858.25
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2019,37677,80088,0,47,150708,n/a,697.7222222,431.58
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2020,39387,81690,0,48,157548,12,729.3888889,451.17
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2021,41174,83324,0,49,164696,24,762.4814815,471.64
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2022,43042,84990,1,51,172168,36,797.0740741,493.03
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2023,44994,86690,1,52,179976,48,833.2222222,515.39
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2024,47036,88424,1,53,188144,60,871.037037,538.78
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2025,49170,90192,1,55,196680,72,910.5555556,563.23
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2026,51400,91996,1,56,205600,84,951.8518519,588.77
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2027,53732,93836,1,57,214928,96,995.037037,615.48
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2028,56170,95713,1,59,224680,108,1040.185185,643.41
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2029,58718,97627,1,60,234872,120,1087.37037,672.60
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2030,61383,99579,1,62,245532,132,1136.722222,703.12
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2031,64167,101571,1,63,256668,144,1188.277778,735.01
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2032,67079,103602,1,65,268316,156,1242.203704,768.37
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2033,70122,105674,1,66,280488,168,1298.555556,803.23
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2034,73303,107788,1,68,293212,180,1357.462963,839.66
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2035,76629,109944,1,70,306516,192,1419.055556,877.76
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2036,80106,112143,1,71,320424,204,1483.444444,917.59
-St. Peter's College,stpete,green,purple,Private school average,St. Peter's,2037,83740,114385,1,73,334960,216,1550.740741,959.22
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2019,37677,80088,0,47,150708,n/a,697.7222222,431.58
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2020,39387,81690,0,48,157548,12,729.3888889,451.17
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2021,41174,83324,0,49,164696,24,762.4814815,471.64
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2022,43042,84990,1,51,172168,36,797.0740741,493.03
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2023,44994,86690,1,52,179976,48,833.2222222,515.39
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2024,47036,88424,1,53,188144,60,871.037037,538.78
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2025,49170,90192,1,55,196680,72,910.5555556,563.23
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2026,51400,91996,1,56,205600,84,951.8518519,588.77
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2027,53732,93836,1,57,214928,96,995.037037,615.48
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2028,56170,95713,1,59,224680,108,1040.185185,643.41
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2029,58718,97627,1,60,234872,120,1087.37037,672.60
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2030,61383,99579,1,62,245532,132,1136.722222,703.12
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2031,64167,101571,1,63,256668,144,1188.277778,735.01
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2032,67079,103602,1,65,268316,156,1242.203704,768.37
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2033,70122,105674,1,66,280488,168,1298.555556,803.23
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2034,73303,107788,1,68,293212,180,1357.462963,839.66
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2035,76629,109944,1,70,306516,192,1419.055556,877.76
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2036,80106,112143,1,71,320424,204,1483.444444,917.59
+St. Peter's University,stpete,green,purple,Private school average,St. Peter's,2037,83740,114385,1,73,334960,216,1550.740741,959.22
 Seton Hall University,Seton,green,purple,Private school average,Seton Hall,2019,42498,80088,1,53,169992,n/a,787,486.80
 Seton Hall University,Seton,green,purple,Private school average,Seton Hall,2020,44498,81690,1,54,177992,12,824.037037,509.71
 Seton Hall University,Seton,green,purple,Private school average,Seton Hall,2021,46592,83324,1,56,186368,24,862.8148148,533.70

@@ -249,7 +249,7 @@ function create_cards(data) {
 
                         gridsquares += '<p>This will be <span class="bolded"> ' + key["inc-100"] + "% " + '</span> of the estimated median household income of <span class="bolded">$' + key["mi"].toLocaleString() + "</span>, should income continue to rise with the price of inflation.</p>"
 
-                        gridsquares += '<p>Spread over an 18-year period, this would require a monthly savings of <span class="bolded">$' + key["saveinterest"].toLocaleString() + '</span> into a college fund with a 5% annual interest rate to have enough for all four years.'
+                        gridsquares += '<p>Spread over an 18-year period, this would require a monthly savings of <span class="bolded">$' + key["saveinterest"].toLocaleString() + '</span> into a college fund with a 5% annual interest rate to have enough for all four years.<br>'
 
 
                         // // Third Section 
